@@ -1,4 +1,4 @@
-# Fuelsense Backend
+# Fuelsense
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Node.js 14+](https://img.shields.io/badge/node-14+-green.svg)](https://nodejs.org/)
