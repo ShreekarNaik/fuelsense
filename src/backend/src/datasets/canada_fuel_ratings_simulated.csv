@@ -1,0 +1,773 @@
+Model Year,Make,Model,Vehicle Class,Engine Size (L),Cylinders,Transmission,Fuel Type,Fuel Consumption City (L/100 km),Fuel Consumption Hwy (L/100 km),Fuel Consumption Comb (L/100 km),CO2 Emissions(g/km),CO2 Rating,Smog Rating,Fuel Consumption City (kWh/100 km),Fuel Consumption Hwy (kWh/100 km),Fuel Consumption Comb (kWh/100 km)
+2021,Manufacturer_11,Model_95,COMPACT,1.0,3,M,Regular Gasoline,7.3,4.9,6.2,140,8,9,,,
+2021,Manufacturer_9,Model_26,COMPACT,1.0,8,A,Regular Gasoline,7.2,4.8,6.1,136,8,10,,,
+2021,Manufacturer_12,Model_55,COMPACT,1.6,6,AM,Regular Gasoline,7.7,5.0,6.5,147,8,5,,,
+2022,Manufacturer_6,Model_45,COMPACT,1.2,6,A,Regular Gasoline,7.7,5.1,6.5,141,8,10,,,
+2022,Manufacturer_14,Model_81,COMPACT,1.5,6,M,Regular Gasoline,7.9,5.4,6.8,150,7,6,,,
+2022,Manufacturer_2,Model_30,COMPACT,1.7,3,AM,Regular Gasoline,7.2,4.8,6.1,131,8,7,,,
+2023,Manufacturer_11,Model_35,COMPACT,1.5,3,M,Regular Gasoline,7.8,5.2,6.6,143,8,5,,,
+2023,Manufacturer_15,Model_82,COMPACT,1.5,4,M,Regular Gasoline,7.3,5.1,6.3,135,8,8,,,
+2023,Manufacturer_6,Model_52,COMPACT,1.8,6,A,Regular Gasoline,7.7,5.2,6.6,138,8,6,,,
+2024,Manufacturer_8,Model_51,COMPACT,1.9,8,A,Regular Gasoline,7.6,5.5,6.7,143,8,7,,,
+2024,Manufacturer_7,Model_75,COMPACT,1.1,8,AM,Regular Gasoline,7.7,5.4,6.7,151,7,6,,,
+2024,Manufacturer_14,Model_15,COMPACT,2.0,4,M,Regular Gasoline,7.2,5.0,6.2,140,8,5,,,
+2021,Manufacturer_5,Model_71,COMPACT,1.6,3,M,Diesel,6.3,4.5,5.5,99,9,4,,,
+2021,Manufacturer_2,Model_38,COMPACT,1.7,8,A,Diesel,6.4,4.3,5.5,100,8,10,,,
+2021,Manufacturer_13,Model_23,COMPACT,1.0,3,M,Diesel,6.5,4.7,5.7,107,8,7,,,
+2021,Manufacturer_3,Model_70,COMPACT,1.8,3,M,Diesel,6.4,4.3,5.5,98,9,8,,,
+2021,Manufacturer_13,Model_40,COMPACT,1.5,4,A,Diesel,6.1,4.2,5.2,98,9,6,,,
+2021,Manufacturer_2,Model_98,COMPACT,1.9,4,A,Diesel,6.7,4.4,5.7,102,8,10,,,
+2021,Manufacturer_4,Model_70,COMPACT,1.9,4,M,Diesel,6.2,4.4,5.4,98,9,7,,,
+2021,Manufacturer_8,Model_16,COMPACT,1.4,4,A,Diesel,6.5,4.5,5.6,105,8,4,,,
+2022,Manufacturer_2,Model_91,COMPACT,1.3,3,A,Diesel,6.4,4.3,5.5,96,9,4,,,
+2022,Manufacturer_11,Model_63,COMPACT,1.9,4,M,Diesel,6.6,4.3,5.6,98,9,5,,,
+2022,Manufacturer_8,Model_53,COMPACT,1.7,4,A,Diesel,6.6,4.7,5.7,100,8,4,,,
+2022,Manufacturer_1,Model_87,COMPACT,1.7,3,A,Diesel,6.3,4.4,5.4,101,8,9,,,
+2022,Manufacturer_9,Model_58,COMPACT,1.7,4,AM,Diesel,6.6,4.4,5.6,98,9,5,,,
+2022,Manufacturer_14,Model_71,COMPACT,1.3,3,A,Diesel,6.2,4.6,5.5,98,9,3,,,
+2022,Manufacturer_8,Model_62,COMPACT,2.0,4,AM,Diesel,6.6,4.9,5.8,101,8,3,,,
+2022,Manufacturer_13,Model_59,COMPACT,1.2,6,AM,Diesel,6.1,4.2,5.2,98,9,10,,,
+2023,Manufacturer_9,Model_8,COMPACT,1.2,6,A,Diesel,6.2,4.6,5.5,100,8,3,,,
+2023,Manufacturer_9,Model_11,COMPACT,1.6,4,A,Diesel,6.4,4.7,5.6,97,9,4,,,
+2023,Manufacturer_4,Model_75,COMPACT,1.7,3,M,Diesel,6.2,4.1,5.3,99,9,4,,,
+2023,Manufacturer_4,Model_86,COMPACT,1.4,6,A,Diesel,6.4,4.5,5.5,103,8,7,,,
+2023,Manufacturer_13,Model_10,COMPACT,1.4,3,AM,Diesel,6.5,4.4,5.6,99,9,4,,,
+2023,Manufacturer_15,Model_9,COMPACT,1.1,4,AM,Diesel,6.2,4.2,5.3,100,8,7,,,
+2023,Manufacturer_13,Model_84,COMPACT,1.2,3,M,Diesel,6.6,4.8,5.8,106,8,7,,,
+2023,Manufacturer_15,Model_14,COMPACT,1.9,4,AM,Diesel,6.1,4.5,5.4,95,9,7,,,
+2024,Manufacturer_5,Model_65,COMPACT,1.6,8,AM,Diesel,6.5,4.4,5.6,102,8,3,,,
+2024,Manufacturer_13,Model_17,COMPACT,1.1,6,A,Diesel,6.3,4.3,5.4,92,9,10,,,
+2024,Manufacturer_15,Model_89,COMPACT,1.6,4,M,Diesel,6.3,4.1,5.3,91,9,3,,,
+2024,Manufacturer_5,Model_47,COMPACT,1.8,3,AM,Diesel,6.4,4.3,5.5,95,9,6,,,
+2024,Manufacturer_14,Model_53,COMPACT,1.7,4,A,Diesel,6.5,4.5,5.6,101,8,5,,,
+2024,Manufacturer_12,Model_43,COMPACT,2.0,8,M,Diesel,6.6,4.9,5.8,99,9,6,,,
+2024,Manufacturer_14,Model_61,COMPACT,1.3,4,A,Diesel,6.6,4.4,5.6,105,8,10,,,
+2024,Manufacturer_11,Model_25,COMPACT,1.3,8,AM,Diesel,6.6,4.9,5.8,102,8,7,,,
+2021,Manufacturer_11,Model_66,COMPACT,0.0,0,A,Electric,,,,0,10,10,19.8,14.4,17.4
+2021,Manufacturer_9,Model_43,COMPACT,0.0,0,A,Electric,,,,0,10,10,17.0,17.9,17.4
+2021,Manufacturer_5,Model_23,COMPACT,0.0,0,A,Electric,,,,0,10,10,19.7,13.6,17.0
+2022,Manufacturer_1,Model_14,COMPACT,0.0,0,A,Electric,,,,0,10,10,17.9,17.9,17.9
+2022,Manufacturer_13,Model_41,COMPACT,0.0,0,A,Electric,,,,0,10,10,18.0,14.7,16.5
+2022,Manufacturer_2,Model_50,COMPACT,0.0,0,A,Electric,,,,0,10,10,17.2,17.9,17.5
+2023,Manufacturer_1,Model_91,COMPACT,0.0,0,A,Electric,,,,0,10,10,19.5,14.0,17.0
+2023,Manufacturer_13,Model_69,COMPACT,0.0,0,A,Electric,,,,0,10,10,17.2,15.6,16.5
+2023,Manufacturer_12,Model_86,COMPACT,0.0,0,A,Electric,,,,0,10,10,18.4,17.7,18.1
+2024,Manufacturer_11,Model_43,COMPACT,0.0,0,A,Electric,,,,0,10,10,16.0,15.2,15.6
+2024,Manufacturer_2,Model_93,COMPACT,0.0,0,A,Electric,,,,0,10,10,18.1,16.3,17.3
+2024,Manufacturer_11,Model_53,COMPACT,0.0,0,A,Electric,,,,0,10,10,19.5,15.5,17.7
+2021,Manufacturer_7,Model_87,COMPACT,1.4,4,M,Natural Gas,7.7,5.1,6.5,97,9,7,,,
+2021,Manufacturer_13,Model_75,COMPACT,1.4,6,AM,Natural Gas,8.1,5.5,6.9,101,8,10,,,
+2021,Manufacturer_13,Model_95,COMPACT,1.4,4,M,Natural Gas,7.6,5.3,6.6,103,8,4,,,
+2021,Manufacturer_13,Model_31,COMPACT,1.3,6,A,Natural Gas,8.0,5.7,7.0,101,8,6,,,
+2021,Manufacturer_13,Model_10,COMPACT,1.1,8,AM,Natural Gas,7.5,5.6,6.6,100,8,6,,,
+2021,Manufacturer_12,Model_1,COMPACT,1.7,3,AM,Natural Gas,7.8,5.4,6.7,97,9,6,,,
+2021,Manufacturer_4,Model_16,COMPACT,1.2,8,A,Natural Gas,8.2,5.8,7.1,102,8,10,,,
+2022,Manufacturer_15,Model_57,COMPACT,1.7,8,M,Natural Gas,8.3,5.9,7.2,113,8,10,,,
+2022,Manufacturer_4,Model_82,COMPACT,1.9,6,M,Natural Gas,8.1,5.6,7.0,102,8,10,,,
+2022,Manufacturer_5,Model_43,COMPACT,1.6,6,M,Natural Gas,7.7,5.1,6.5,95,9,4,,,
+2022,Manufacturer_2,Model_54,COMPACT,1.1,8,AM,Natural Gas,7.7,5.5,6.7,103,8,10,,,
+2022,Manufacturer_10,Model_90,COMPACT,1.4,3,M,Natural Gas,7.6,5.3,6.6,103,8,9,,,
+2022,Manufacturer_15,Model_54,COMPACT,1.5,4,AM,Natural Gas,8.2,5.6,7.0,104,8,6,,,
+2022,Manufacturer_13,Model_52,COMPACT,1.3,4,AM,Natural Gas,7.9,5.4,6.8,104,8,5,,,
+2023,Manufacturer_11,Model_4,COMPACT,2.0,3,M,Natural Gas,7.9,5.9,7.0,106,8,9,,,
+2023,Manufacturer_4,Model_59,COMPACT,1.1,6,AM,Natural Gas,7.8,5.1,6.6,98,9,9,,,
+2023,Manufacturer_8,Model_3,COMPACT,1.3,3,AM,Natural Gas,8.2,5.7,7.1,110,8,6,,,
+2023,Manufacturer_4,Model_26,COMPACT,1.7,3,M,Natural Gas,8.1,5.8,7.1,109,8,5,,,
+2023,Manufacturer_8,Model_90,COMPACT,1.2,6,AM,Natural Gas,7.9,5.2,6.7,105,8,5,,,
+2023,Manufacturer_3,Model_40,COMPACT,1.6,3,M,Natural Gas,8.2,5.9,7.2,111,8,3,,,
+2023,Manufacturer_12,Model_26,COMPACT,1.9,3,M,Natural Gas,7.9,5.9,7.0,104,8,6,,,
+2024,Manufacturer_2,Model_73,COMPACT,1.1,3,AM,Natural Gas,8.1,6.0,7.2,109,8,9,,,
+2024,Manufacturer_7,Model_63,COMPACT,1.7,3,AM,Natural Gas,7.5,5.4,6.6,94,9,8,,,
+2024,Manufacturer_12,Model_67,COMPACT,1.6,6,M,Natural Gas,8.1,5.8,7.1,106,8,10,,,
+2024,Manufacturer_4,Model_12,COMPACT,1.5,6,AM,Natural Gas,8.1,5.7,7.0,103,8,6,,,
+2024,Manufacturer_8,Model_42,COMPACT,1.8,4,AM,Natural Gas,7.9,5.7,6.9,102,8,6,,,
+2024,Manufacturer_15,Model_36,COMPACT,1.4,3,M,Natural Gas,7.7,5.2,6.6,100,8,6,,,
+2024,Manufacturer_12,Model_61,COMPACT,1.1,8,AM,Natural Gas,8.0,5.6,6.9,106,8,3,,,
+2021,Manufacturer_6,Model_61,MID-SIZE,2.0,6,AM,Regular Gasoline,8.9,6.0,7.6,170,7,8,,,
+2021,Manufacturer_12,Model_25,MID-SIZE,2.0,6,A,Regular Gasoline,9.0,6.1,7.7,165,7,5,,,
+2021,Manufacturer_13,Model_68,MID-SIZE,1.9,6,A,Regular Gasoline,9.2,6.2,7.8,173,7,6,,,
+2022,Manufacturer_3,Model_36,MID-SIZE,2.0,3,A,Regular Gasoline,8.9,6.1,7.6,171,7,7,,,
+2022,Manufacturer_14,Model_2,MID-SIZE,2.3,6,AM,Regular Gasoline,8.7,6.4,7.7,169,7,10,,,
+2022,Manufacturer_8,Model_15,MID-SIZE,2.1,3,AM,Regular Gasoline,8.7,5.7,7.3,168,7,10,,,
+2023,Manufacturer_10,Model_39,MID-SIZE,1.9,3,A,Regular Gasoline,9.1,6.0,7.7,163,7,4,,,
+2023,Manufacturer_13,Model_67,MID-SIZE,2.2,8,AM,Regular Gasoline,8.9,6.3,7.7,171,7,10,,,
+2023,Manufacturer_1,Model_79,MID-SIZE,2.0,3,A,Regular Gasoline,9.1,6.3,7.8,173,7,6,,,
+2024,Manufacturer_3,Model_1,MID-SIZE,2.0,8,AM,Regular Gasoline,8.6,5.8,7.3,161,7,10,,,
+2024,Manufacturer_8,Model_10,MID-SIZE,2.0,4,AM,Regular Gasoline,8.8,6.3,7.7,173,7,6,,,
+2024,Manufacturer_14,Model_19,MID-SIZE,2.1,3,A,Regular Gasoline,9.0,6.4,7.8,179,7,5,,,
+2021,Manufacturer_8,Model_89,MID-SIZE,2.2,6,M,Diesel,7.9,5.9,7.0,125,8,9,,,
+2021,Manufacturer_1,Model_56,MID-SIZE,2.5,6,M,Diesel,7.7,5.4,6.7,116,8,7,,,
+2021,Manufacturer_10,Model_3,MID-SIZE,1.8,6,M,Diesel,7.4,5.3,6.5,121,8,3,,,
+2021,Manufacturer_5,Model_24,MID-SIZE,2.3,8,M,Diesel,7.4,5.2,6.4,115,8,10,,,
+2021,Manufacturer_2,Model_21,MID-SIZE,2.5,6,AM,Diesel,7.6,5.3,6.6,117,8,10,,,
+2021,Manufacturer_8,Model_12,MID-SIZE,2.0,6,AM,Diesel,8.0,5.9,7.1,128,8,8,,,
+2022,Manufacturer_1,Model_85,MID-SIZE,1.9,8,AM,Diesel,7.9,5.8,7.0,130,8,3,,,
+2022,Manufacturer_13,Model_7,MID-SIZE,1.9,4,AM,Diesel,7.5,5.4,6.6,120,8,5,,,
+2022,Manufacturer_11,Model_78,MID-SIZE,2.4,4,M,Diesel,7.6,5.5,6.7,116,8,5,,,
+2022,Manufacturer_14,Model_15,MID-SIZE,2.0,8,A,Diesel,7.3,5.0,6.3,110,8,5,,,
+2022,Manufacturer_14,Model_62,MID-SIZE,2.1,8,A,Diesel,7.8,5.5,6.8,120,8,10,,,
+2022,Manufacturer_15,Model_18,MID-SIZE,2.2,3,AM,Diesel,7.6,5.6,6.7,121,8,9,,,
+2023,Manufacturer_12,Model_39,MID-SIZE,2.0,8,A,Diesel,7.9,5.3,6.7,115,8,10,,,
+2023,Manufacturer_8,Model_42,MID-SIZE,2.2,4,M,Diesel,7.5,5.3,6.5,118,8,6,,,
+2023,Manufacturer_12,Model_61,MID-SIZE,2.2,8,AM,Diesel,7.4,5.4,6.5,112,8,5,,,
+2023,Manufacturer_14,Model_13,MID-SIZE,2.1,8,A,Diesel,7.3,5.1,6.3,114,8,10,,,
+2023,Manufacturer_2,Model_61,MID-SIZE,1.8,6,AM,Diesel,7.4,5.5,6.5,122,8,9,,,
+2023,Manufacturer_7,Model_41,MID-SIZE,2.3,8,M,Diesel,7.9,5.8,7.0,131,8,3,,,
+2024,Manufacturer_4,Model_96,MID-SIZE,2.2,3,AM,Diesel,7.4,5.3,6.5,115,8,4,,,
+2024,Manufacturer_5,Model_4,MID-SIZE,2.3,3,AM,Diesel,7.8,5.1,6.6,115,8,3,,,
+2024,Manufacturer_10,Model_88,MID-SIZE,2.0,4,A,Diesel,7.6,5.1,6.5,117,8,5,,,
+2024,Manufacturer_15,Model_75,MID-SIZE,1.9,4,A,Diesel,7.9,5.6,6.9,121,8,10,,,
+2024,Manufacturer_8,Model_37,MID-SIZE,2.2,4,A,Diesel,7.6,5.4,6.6,124,8,10,,,
+2024,Manufacturer_12,Model_33,MID-SIZE,2.5,8,AM,Diesel,8.0,5.4,6.8,128,8,6,,,
+2021,Manufacturer_7,Model_74,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.3,13.5,16.7
+2021,Manufacturer_12,Model_38,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,16.8,14.5,15.8
+2021,Manufacturer_7,Model_36,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,15.1,17.2,16.0
+2021,Manufacturer_13,Model_96,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,15.0,17.3,16.0
+2021,Manufacturer_12,Model_64,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.9,17.6,18.9
+2021,Manufacturer_13,Model_30,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.2,17.5,18.4
+2021,Manufacturer_11,Model_25,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.0,14.8,16.6
+2021,Manufacturer_12,Model_99,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.1,16.4,17.3
+2022,Manufacturer_11,Model_13,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.3,17.2,17.8
+2022,Manufacturer_5,Model_57,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.5,16.2,18.0
+2022,Manufacturer_3,Model_12,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,15.2,14.8,15.0
+2022,Manufacturer_7,Model_23,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.5,14.6,17.3
+2022,Manufacturer_15,Model_47,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,16.0,16.9,16.4
+2022,Manufacturer_14,Model_22,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,17.7,17.6,17.7
+2022,Manufacturer_8,Model_38,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,16.3,17.1,16.7
+2022,Manufacturer_2,Model_60,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.7,14.7,16.9
+2023,Manufacturer_4,Model_87,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.8,13.7,17.1
+2023,Manufacturer_14,Model_72,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.6,17.9,18.3
+2023,Manufacturer_1,Model_34,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,16.8,17.0,16.9
+2023,Manufacturer_11,Model_96,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,17.7,15.3,16.6
+2023,Manufacturer_14,Model_82,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.4,15.9,17.3
+2023,Manufacturer_4,Model_61,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.7,13.5,16.9
+2023,Manufacturer_9,Model_42,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,15.1,17.4,16.1
+2023,Manufacturer_2,Model_82,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.6,14.1,17.1
+2024,Manufacturer_5,Model_84,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.1,17.5,18.4
+2024,Manufacturer_1,Model_39,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,17.0,13.7,15.5
+2024,Manufacturer_4,Model_69,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,20.0,13.6,17.1
+2024,Manufacturer_11,Model_96,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,15.7,15.3,15.5
+2024,Manufacturer_10,Model_96,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.5,15.7,17.2
+2024,Manufacturer_11,Model_13,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.6,17.4,18.1
+2024,Manufacturer_5,Model_5,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,19.2,16.1,17.8
+2024,Manufacturer_8,Model_31,MID-SIZE,0.0,0,A,Electric,,,,0,10,10,18.5,14.1,16.5
+2021,Manufacturer_6,Model_8,MID-SIZE,1.9,8,AM,Natural Gas,9.6,6.8,8.3,130,8,6,,,
+2021,Manufacturer_4,Model_83,MID-SIZE,2.5,3,A,Natural Gas,9.9,7.3,8.7,125,8,8,,,
+2021,Manufacturer_13,Model_71,MID-SIZE,2.0,4,M,Natural Gas,9.1,6.4,7.9,113,8,6,,,
+2021,Manufacturer_10,Model_1,MID-SIZE,2.4,6,A,Natural Gas,9.2,6.7,8.1,125,8,5,,,
+2021,Manufacturer_3,Model_2,MID-SIZE,2.2,6,A,Natural Gas,9.7,6.4,8.2,128,8,8,,,
+2021,Manufacturer_2,Model_96,MID-SIZE,1.8,3,AM,Natural Gas,9.2,6.1,7.8,116,8,10,,,
+2021,Manufacturer_10,Model_6,MID-SIZE,2.3,6,AM,Natural Gas,9.5,6.3,8.1,122,8,3,,,
+2022,Manufacturer_8,Model_92,MID-SIZE,1.8,8,A,Natural Gas,9.4,6.5,8.1,124,8,4,,,
+2022,Manufacturer_10,Model_71,MID-SIZE,2.0,6,AM,Natural Gas,9.1,6.0,7.7,117,8,7,,,
+2022,Manufacturer_14,Model_84,MID-SIZE,2.1,4,AM,Natural Gas,9.5,6.3,8.1,124,8,10,,,
+2022,Manufacturer_12,Model_13,MID-SIZE,2.4,6,AM,Natural Gas,9.4,6.9,8.3,123,8,8,,,
+2022,Manufacturer_2,Model_12,MID-SIZE,2.3,3,A,Natural Gas,9.3,6.2,7.9,124,8,9,,,
+2022,Manufacturer_10,Model_72,MID-SIZE,1.9,6,M,Natural Gas,9.7,7.1,8.5,128,8,4,,,
+2022,Manufacturer_15,Model_93,MID-SIZE,2.1,3,AM,Natural Gas,9.8,7.3,8.7,129,8,7,,,
+2023,Manufacturer_4,Model_14,MID-SIZE,2.0,6,M,Natural Gas,9.5,6.4,8.1,123,8,8,,,
+2023,Manufacturer_9,Model_99,MID-SIZE,1.9,3,M,Natural Gas,9.2,6.2,7.8,116,8,7,,,
+2023,Manufacturer_6,Model_1,MID-SIZE,1.8,4,A,Natural Gas,9.2,6.7,8.1,127,8,9,,,
+2023,Manufacturer_9,Model_28,MID-SIZE,1.8,8,AM,Natural Gas,9.7,7.2,8.6,124,8,10,,,
+2023,Manufacturer_10,Model_77,MID-SIZE,2.0,3,A,Natural Gas,9.3,6.7,8.1,125,8,5,,,
+2023,Manufacturer_11,Model_55,MID-SIZE,1.9,8,M,Natural Gas,9.6,6.9,8.4,123,8,10,,,
+2023,Manufacturer_2,Model_37,MID-SIZE,2.1,8,M,Natural Gas,9.2,6.5,8.0,118,8,7,,,
+2024,Manufacturer_5,Model_28,MID-SIZE,1.8,4,AM,Natural Gas,9.4,6.7,8.2,117,8,7,,,
+2024,Manufacturer_7,Model_69,MID-SIZE,2.0,4,M,Natural Gas,9.0,6.5,7.9,115,8,8,,,
+2024,Manufacturer_15,Model_10,MID-SIZE,1.9,6,M,Natural Gas,9.8,6.4,8.3,119,8,9,,,
+2024,Manufacturer_1,Model_42,MID-SIZE,2.2,4,M,Natural Gas,9.6,6.6,8.2,118,8,10,,,
+2024,Manufacturer_4,Model_56,MID-SIZE,2.4,8,M,Natural Gas,9.8,6.5,8.3,129,8,4,,,
+2024,Manufacturer_3,Model_10,MID-SIZE,2.1,3,M,Natural Gas,9.3,6.4,8.0,118,8,6,,,
+2024,Manufacturer_14,Model_19,MID-SIZE,2.4,4,A,Natural Gas,9.3,6.7,8.1,125,8,5,,,
+2021,Manufacturer_3,Model_99,FULL-SIZE,2.3,8,AM,Regular Gasoline,11.1,8.1,9.8,219,6,10,,,
+2021,Manufacturer_6,Model_81,FULL-SIZE,3.0,6,A,Regular Gasoline,11.4,8.1,9.9,228,6,10,,,
+2021,Manufacturer_1,Model_46,FULL-SIZE,2.1,3,AM,Regular Gasoline,10.9,7.4,9.3,200,6,10,,,
+2021,Manufacturer_14,Model_12,FULL-SIZE,2.7,8,AM,Regular Gasoline,10.5,7.7,9.2,194,7,3,,,
+2021,Manufacturer_8,Model_65,FULL-SIZE,2.7,4,A,Regular Gasoline,11.3,8.1,9.9,214,6,10,,,
+2021,Manufacturer_9,Model_83,FULL-SIZE,2.2,4,A,Regular Gasoline,11.4,7.8,9.8,220,6,6,,,
+2022,Manufacturer_6,Model_48,FULL-SIZE,3.1,6,AM,Regular Gasoline,11.5,8.1,10.0,222,6,9,,,
+2022,Manufacturer_6,Model_9,FULL-SIZE,3.2,6,A,Regular Gasoline,11.2,7.3,9.4,210,6,9,,,
+2022,Manufacturer_14,Model_20,FULL-SIZE,2.4,6,A,Regular Gasoline,11.2,8.0,9.8,224,6,5,,,
+2022,Manufacturer_3,Model_77,FULL-SIZE,3.4,3,AM,Regular Gasoline,10.8,7.7,9.4,210,6,9,,,
+2022,Manufacturer_12,Model_88,FULL-SIZE,3.0,3,M,Regular Gasoline,10.8,7.2,9.2,207,6,9,,,
+2022,Manufacturer_6,Model_99,FULL-SIZE,2.8,8,A,Regular Gasoline,10.5,7.1,9.0,207,6,6,,,
+2023,Manufacturer_9,Model_99,FULL-SIZE,3.5,3,M,Regular Gasoline,10.6,7.2,9.1,206,6,8,,,
+2023,Manufacturer_3,Model_89,FULL-SIZE,3.3,4,M,Regular Gasoline,11.1,7.9,9.7,206,6,10,,,
+2023,Manufacturer_10,Model_37,FULL-SIZE,2.1,8,A,Regular Gasoline,10.9,7.9,9.6,221,6,6,,,
+2023,Manufacturer_6,Model_87,FULL-SIZE,2.5,8,AM,Regular Gasoline,11.3,7.9,9.8,223,6,7,,,
+2023,Manufacturer_4,Model_78,FULL-SIZE,3.2,4,AM,Regular Gasoline,11.0,7.6,9.5,202,6,3,,,
+2023,Manufacturer_14,Model_67,FULL-SIZE,3.0,3,AM,Regular Gasoline,11.4,8.0,9.9,209,6,4,,,
+2024,Manufacturer_7,Model_12,FULL-SIZE,3.1,4,AM,Regular Gasoline,10.8,8.0,9.5,202,6,8,,,
+2024,Manufacturer_7,Model_11,FULL-SIZE,3.4,6,A,Regular Gasoline,10.9,7.5,9.4,204,6,3,,,
+2024,Manufacturer_3,Model_18,FULL-SIZE,2.5,3,AM,Regular Gasoline,10.6,7.6,9.2,199,7,10,,,
+2024,Manufacturer_1,Model_11,FULL-SIZE,3.0,3,AM,Regular Gasoline,10.6,7.6,9.2,201,6,6,,,
+2024,Manufacturer_2,Model_100,FULL-SIZE,3.3,6,A,Regular Gasoline,11.1,8.0,9.7,214,6,7,,,
+2024,Manufacturer_2,Model_15,FULL-SIZE,2.2,8,M,Regular Gasoline,10.7,7.6,9.3,207,6,3,,,
+2021,Manufacturer_6,Model_31,FULL-SIZE,2.9,8,A,Diesel,9.6,6.5,8.2,140,8,4,,,
+2021,Manufacturer_13,Model_65,FULL-SIZE,2.8,3,AM,Diesel,9.2,6.9,8.2,148,8,10,,,
+2021,Manufacturer_6,Model_9,FULL-SIZE,2.1,6,A,Diesel,9.2,6.3,7.9,146,8,4,,,
+2021,Manufacturer_9,Model_44,FULL-SIZE,3.2,4,M,Diesel,9.6,6.6,8.2,141,8,10,,,
+2021,Manufacturer_12,Model_100,FULL-SIZE,3.5,8,A,Diesel,9.3,6.2,7.9,137,8,7,,,
+2021,Manufacturer_5,Model_66,FULL-SIZE,2.3,8,M,Diesel,9.6,7.1,8.5,150,7,10,,,
+2021,Manufacturer_13,Model_7,FULL-SIZE,2.4,6,AM,Diesel,9.6,6.4,8.2,145,8,4,,,
+2021,Manufacturer_7,Model_44,FULL-SIZE,3.2,4,AM,Diesel,9.3,6.4,8.0,143,8,10,,,
+2021,Manufacturer_7,Model_11,FULL-SIZE,2.6,8,M,Diesel,9.6,6.5,8.2,141,8,5,,,
+2021,Manufacturer_5,Model_58,FULL-SIZE,2.8,8,A,Diesel,9.2,6.1,7.8,143,8,10,,,
+2022,Manufacturer_7,Model_36,FULL-SIZE,2.5,3,A,Diesel,8.9,6.6,7.9,140,8,9,,,
+2022,Manufacturer_3,Model_78,FULL-SIZE,2.5,8,A,Diesel,9.6,6.9,8.4,158,7,5,,,
+2022,Manufacturer_10,Model_5,FULL-SIZE,2.1,4,M,Diesel,9.6,6.6,8.2,146,8,10,,,
+2022,Manufacturer_9,Model_47,FULL-SIZE,3.4,8,AM,Diesel,9.2,6.7,8.1,147,8,7,,,
+2022,Manufacturer_7,Model_72,FULL-SIZE,2.4,3,AM,Diesel,9.0,6.5,7.9,142,8,7,,,
+2022,Manufacturer_8,Model_26,FULL-SIZE,3.1,3,A,Diesel,9.1,6.5,7.9,145,8,4,,,
+2022,Manufacturer_11,Model_41,FULL-SIZE,2.7,6,M,Diesel,9.7,6.7,8.3,143,8,4,,,
+2022,Manufacturer_12,Model_90,FULL-SIZE,2.8,4,AM,Diesel,9.2,6.3,7.9,137,8,6,,,
+2022,Manufacturer_1,Model_47,FULL-SIZE,2.2,6,AM,Diesel,9.1,6.0,7.7,143,8,5,,,
+2022,Manufacturer_12,Model_62,FULL-SIZE,2.9,8,AM,Diesel,9.0,6.1,7.7,146,8,4,,,
+2023,Manufacturer_9,Model_45,FULL-SIZE,2.2,4,M,Diesel,9.2,6.0,7.8,140,8,5,,,
+2023,Manufacturer_14,Model_16,FULL-SIZE,3.2,4,AM,Diesel,9.0,6.3,7.8,146,8,5,,,
+2023,Manufacturer_9,Model_37,FULL-SIZE,2.2,3,AM,Diesel,9.8,6.6,8.4,158,7,6,,,
+2023,Manufacturer_9,Model_12,FULL-SIZE,3.0,4,M,Diesel,9.4,6.2,8.0,141,8,5,,,
+2023,Manufacturer_15,Model_73,FULL-SIZE,2.3,3,A,Diesel,9.5,7.0,8.4,149,8,4,,,
+2023,Manufacturer_13,Model_74,FULL-SIZE,2.1,8,M,Diesel,9.5,6.7,8.2,150,7,3,,,
+2023,Manufacturer_8,Model_32,FULL-SIZE,2.7,8,AM,Diesel,9.5,6.5,8.2,154,7,10,,,
+2023,Manufacturer_4,Model_44,FULL-SIZE,2.1,4,AM,Diesel,8.9,6.2,7.7,138,8,8,,,
+2023,Manufacturer_6,Model_66,FULL-SIZE,3.1,3,AM,Diesel,9.7,7.3,8.6,149,8,6,,,
+2023,Manufacturer_5,Model_50,FULL-SIZE,2.7,8,A,Diesel,9.1,6.1,7.8,135,8,5,,,
+2024,Manufacturer_3,Model_64,FULL-SIZE,3.2,8,AM,Diesel,9.8,7.1,8.6,150,7,7,,,
+2024,Manufacturer_4,Model_28,FULL-SIZE,2.7,6,A,Diesel,9.0,6.2,7.7,138,8,3,,,
+2024,Manufacturer_5,Model_69,FULL-SIZE,2.4,3,A,Diesel,9.4,6.9,8.3,152,7,9,,,
+2024,Manufacturer_1,Model_52,FULL-SIZE,2.2,3,M,Diesel,9.1,6.2,7.8,139,8,6,,,
+2024,Manufacturer_9,Model_36,FULL-SIZE,2.5,3,A,Diesel,9.2,6.3,7.9,141,8,4,,,
+2024,Manufacturer_13,Model_19,FULL-SIZE,2.6,4,M,Diesel,9.6,6.6,8.2,154,7,9,,,
+2024,Manufacturer_8,Model_67,FULL-SIZE,2.8,8,A,Diesel,8.9,5.9,7.6,135,8,5,,,
+2024,Manufacturer_12,Model_39,FULL-SIZE,2.5,6,M,Diesel,9.5,6.3,8.1,153,7,10,,,
+2024,Manufacturer_11,Model_15,FULL-SIZE,3.1,8,M,Diesel,9.2,6.7,8.1,144,8,7,,,
+2024,Manufacturer_8,Model_34,FULL-SIZE,3.2,4,M,Diesel,9.6,6.9,8.4,144,8,3,,,
+2021,Manufacturer_10,Model_100,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,15.9,16.1,16.0
+2021,Manufacturer_11,Model_32,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,19.2,13.7,16.7
+2021,Manufacturer_2,Model_25,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,15.2,17.7,16.3
+2021,Manufacturer_3,Model_53,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,15.1,14.6,14.9
+2021,Manufacturer_13,Model_79,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,18.5,15.1,17.0
+2021,Manufacturer_12,Model_94,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,19.6,17.4,18.6
+2021,Manufacturer_4,Model_72,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,15.3,13.7,14.6
+2021,Manufacturer_9,Model_49,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.6,16.3,16.5
+2021,Manufacturer_15,Model_69,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.6,13.9,15.4
+2022,Manufacturer_13,Model_93,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.7,14.8,15.8
+2022,Manufacturer_5,Model_79,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,18.4,17.0,17.8
+2022,Manufacturer_5,Model_72,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,17.4,17.8,17.6
+2022,Manufacturer_5,Model_99,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.5,17.7,17.0
+2022,Manufacturer_12,Model_63,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.4,14.0,15.3
+2022,Manufacturer_15,Model_93,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.6,14.7,15.7
+2022,Manufacturer_11,Model_70,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.4,13.6,15.1
+2022,Manufacturer_14,Model_45,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.9,17.9,17.4
+2022,Manufacturer_5,Model_6,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,19.8,17.0,18.5
+2023,Manufacturer_6,Model_57,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.4,16.6,16.5
+2023,Manufacturer_4,Model_26,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,18.3,16.7,17.6
+2023,Manufacturer_9,Model_90,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,19.1,14.4,17.0
+2023,Manufacturer_12,Model_76,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.4,13.5,15.1
+2023,Manufacturer_15,Model_68,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.2,13.3,14.9
+2023,Manufacturer_2,Model_53,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.1,14.2,15.2
+2023,Manufacturer_11,Model_99,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.7,15.4,16.1
+2023,Manufacturer_15,Model_21,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,15.7,17.8,16.6
+2023,Manufacturer_15,Model_61,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,17.0,17.7,17.3
+2024,Manufacturer_5,Model_42,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,17.4,14.0,15.9
+2024,Manufacturer_13,Model_12,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,16.4,13.3,15.0
+2024,Manufacturer_12,Model_93,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,18.3,14.2,16.5
+2024,Manufacturer_15,Model_23,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,19.3,13.2,16.6
+2024,Manufacturer_15,Model_5,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,17.1,17.2,17.1
+2024,Manufacturer_8,Model_24,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,20.0,15.0,17.8
+2024,Manufacturer_15,Model_38,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,19.7,17.8,18.8
+2024,Manufacturer_10,Model_78,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,19.4,13.0,16.5
+2024,Manufacturer_5,Model_59,FULL-SIZE,0.0,0,A,Electric,,,,0,10,10,15.5,17.9,16.6
+2021,Manufacturer_5,Model_25,FULL-SIZE,2.8,3,AM,Natural Gas,12.0,8.0,10.2,153,7,5,,,
+2021,Manufacturer_6,Model_38,FULL-SIZE,3.1,4,A,Natural Gas,11.7,8.4,10.2,146,8,9,,,
+2021,Manufacturer_3,Model_18,FULL-SIZE,3.2,8,AM,Natural Gas,11.6,7.6,9.8,149,8,6,,,
+2021,Manufacturer_6,Model_39,FULL-SIZE,2.0,3,AM,Natural Gas,11.4,7.9,9.8,144,8,8,,,
+2021,Manufacturer_7,Model_88,FULL-SIZE,3.0,6,M,Natural Gas,11.0,7.3,9.3,137,8,4,,,
+2021,Manufacturer_3,Model_62,FULL-SIZE,3.0,4,AM,Natural Gas,12.1,8.3,10.4,152,7,8,,,
+2021,Manufacturer_11,Model_28,FULL-SIZE,2.6,4,M,Natural Gas,11.6,8.1,10.0,151,7,4,,,
+2021,Manufacturer_2,Model_8,FULL-SIZE,2.8,4,M,Natural Gas,11.6,8.0,10.0,156,7,5,,,
+2021,Manufacturer_12,Model_75,FULL-SIZE,2.2,8,A,Natural Gas,12.0,8.3,10.3,157,7,10,,,
+2021,Manufacturer_1,Model_72,FULL-SIZE,3.2,8,M,Natural Gas,11.5,8.1,10.0,149,8,7,,,
+2022,Manufacturer_10,Model_10,FULL-SIZE,3.1,3,AM,Natural Gas,11.4,8.3,10.0,154,7,8,,,
+2022,Manufacturer_15,Model_61,FULL-SIZE,3.1,3,AM,Natural Gas,11.6,7.6,9.8,153,7,9,,,
+2022,Manufacturer_7,Model_48,FULL-SIZE,2.3,8,AM,Natural Gas,11.1,7.9,9.7,149,8,9,,,
+2022,Manufacturer_11,Model_45,FULL-SIZE,2.6,3,A,Natural Gas,11.8,8.5,10.3,155,7,9,,,
+2022,Manufacturer_1,Model_39,FULL-SIZE,2.8,8,M,Natural Gas,11.8,7.9,10.0,143,8,9,,,
+2022,Manufacturer_5,Model_25,FULL-SIZE,2.8,3,A,Natural Gas,11.9,8.0,10.1,149,8,9,,,
+2022,Manufacturer_2,Model_13,FULL-SIZE,2.9,3,AM,Natural Gas,12.1,8.9,10.7,156,7,3,,,
+2022,Manufacturer_13,Model_100,FULL-SIZE,2.4,3,A,Natural Gas,11.0,7.6,9.5,143,8,7,,,
+2022,Manufacturer_13,Model_87,FULL-SIZE,2.4,6,A,Natural Gas,12.0,8.5,10.4,157,7,7,,,
+2022,Manufacturer_5,Model_8,FULL-SIZE,3.3,4,M,Natural Gas,12.1,8.5,10.5,156,7,9,,,
+2023,Manufacturer_7,Model_68,FULL-SIZE,2.8,6,M,Natural Gas,11.0,7.5,9.4,143,8,9,,,
+2023,Manufacturer_4,Model_29,FULL-SIZE,2.6,6,M,Natural Gas,11.3,7.6,9.6,145,8,5,,,
+2023,Manufacturer_9,Model_68,FULL-SIZE,3.2,4,AM,Natural Gas,12.0,8.5,10.4,163,7,6,,,
+2023,Manufacturer_6,Model_12,FULL-SIZE,2.4,4,A,Natural Gas,11.4,7.5,9.6,143,8,7,,,
+2023,Manufacturer_13,Model_98,FULL-SIZE,2.6,4,AM,Natural Gas,11.7,7.7,9.9,142,8,6,,,
+2023,Manufacturer_15,Model_25,FULL-SIZE,3.3,3,M,Natural Gas,11.4,8.5,10.1,144,8,10,,,
+2023,Manufacturer_4,Model_71,FULL-SIZE,3.4,6,AM,Natural Gas,11.8,8.5,10.3,153,7,9,,,
+2023,Manufacturer_15,Model_64,FULL-SIZE,2.7,8,A,Natural Gas,11.7,8.0,10.0,148,8,10,,,
+2023,Manufacturer_1,Model_73,FULL-SIZE,3.1,4,M,Natural Gas,11.3,7.6,9.6,141,8,5,,,
+2023,Manufacturer_5,Model_20,FULL-SIZE,2.0,4,AM,Natural Gas,11.6,8.2,10.1,155,7,6,,,
+2024,Manufacturer_11,Model_44,FULL-SIZE,2.6,6,AM,Natural Gas,11.9,8.3,10.3,157,7,10,,,
+2024,Manufacturer_9,Model_63,FULL-SIZE,2.7,4,M,Natural Gas,11.8,8.1,10.1,146,8,3,,,
+2024,Manufacturer_1,Model_98,FULL-SIZE,2.8,3,AM,Natural Gas,11.9,7.8,10.1,156,7,5,,,
+2024,Manufacturer_9,Model_59,FULL-SIZE,3.3,6,A,Natural Gas,11.2,8.1,9.8,140,8,10,,,
+2024,Manufacturer_1,Model_68,FULL-SIZE,3.0,6,M,Natural Gas,11.0,7.7,9.5,141,8,7,,,
+2024,Manufacturer_15,Model_23,FULL-SIZE,2.0,3,A,Natural Gas,11.9,8.5,10.4,161,7,5,,,
+2024,Manufacturer_13,Model_51,FULL-SIZE,2.4,3,AM,Natural Gas,11.7,7.9,10.0,148,8,9,,,
+2024,Manufacturer_14,Model_11,FULL-SIZE,2.7,3,A,Natural Gas,11.3,8.1,9.9,146,8,9,,,
+2024,Manufacturer_3,Model_11,FULL-SIZE,2.6,8,AM,Natural Gas,11.6,7.6,9.8,140,8,8,,,
+2024,Manufacturer_1,Model_30,FULL-SIZE,2.8,4,M,Natural Gas,12.0,7.9,10.2,153,7,10,,,
+2021,Manufacturer_10,Model_85,SUV - SMALL,2.6,3,A,Regular Gasoline,9.6,7.1,8.5,194,7,8,,,
+2021,Manufacturer_14,Model_51,SUV - SMALL,2.5,3,AM,Regular Gasoline,9.7,6.4,8.2,186,7,5,,,
+2021,Manufacturer_9,Model_43,SUV - SMALL,4.2,8,M,Regular Gasoline,10.1,7.4,8.9,199,7,5,,,
+2021,Manufacturer_6,Model_7,SUV - SMALL,4.9,3,AM,Regular Gasoline,10.2,6.7,8.6,194,7,6,,,
+2021,Manufacturer_7,Model_100,SUV - SMALL,5.0,6,A,Regular Gasoline,9.8,7.1,8.6,198,7,7,,,
+2021,Manufacturer_7,Model_56,SUV - SMALL,4.9,4,M,Regular Gasoline,10.0,6.7,8.5,188,7,9,,,
+2022,Manufacturer_2,Model_35,SUV - SMALL,2.8,4,AM,Regular Gasoline,10.1,7.4,8.9,200,6,5,,,
+2022,Manufacturer_5,Model_57,SUV - SMALL,4.7,6,AM,Regular Gasoline,9.8,6.5,8.3,174,7,4,,,
+2022,Manufacturer_7,Model_14,SUV - SMALL,2.9,3,A,Regular Gasoline,9.7,6.7,8.3,184,7,8,,,
+2022,Manufacturer_1,Model_38,SUV - SMALL,4.2,8,AM,Regular Gasoline,10.1,7.4,8.9,203,6,4,,,
+2022,Manufacturer_9,Model_22,SUV - SMALL,4.7,8,A,Regular Gasoline,10.1,7.6,9.0,193,7,5,,,
+2022,Manufacturer_5,Model_54,SUV - SMALL,3.3,6,AM,Regular Gasoline,9.8,6.5,8.3,177,7,4,,,
+2023,Manufacturer_10,Model_26,SUV - SMALL,3.6,8,A,Regular Gasoline,10.4,7.5,9.1,200,6,5,,,
+2023,Manufacturer_13,Model_43,SUV - SMALL,3.4,8,AM,Regular Gasoline,10.4,7.1,8.9,198,7,9,,,
+2023,Manufacturer_6,Model_78,SUV - SMALL,4.9,4,AM,Regular Gasoline,10.4,7.8,9.2,195,7,8,,,
+2023,Manufacturer_11,Model_63,SUV - SMALL,3.0,4,AM,Regular Gasoline,9.9,6.8,8.5,191,7,9,,,
+2023,Manufacturer_4,Model_76,SUV - SMALL,3.3,4,M,Regular Gasoline,10.3,7.1,8.9,204,6,3,,,
+2023,Manufacturer_5,Model_89,SUV - SMALL,5.4,3,AM,Regular Gasoline,10.0,7.2,8.7,190,7,10,,,
+2024,Manufacturer_7,Model_49,SUV - SMALL,2.9,3,AM,Regular Gasoline,9.8,6.6,8.4,178,7,10,,,
+2024,Manufacturer_7,Model_70,SUV - SMALL,4.2,3,AM,Regular Gasoline,10.0,7.4,8.8,201,6,4,,,
+2024,Manufacturer_10,Model_6,SUV - SMALL,2.8,8,AM,Regular Gasoline,9.7,6.9,8.4,179,7,9,,,
+2024,Manufacturer_9,Model_75,SUV - SMALL,2.8,4,AM,Regular Gasoline,9.6,6.5,8.2,185,7,8,,,
+2024,Manufacturer_6,Model_4,SUV - SMALL,3.7,8,A,Regular Gasoline,10.3,7.3,9.0,198,7,7,,,
+2024,Manufacturer_3,Model_45,SUV - SMALL,3.7,6,AM,Regular Gasoline,10.5,6.9,8.9,204,6,10,,,
+2021,Manufacturer_8,Model_41,SUV - SMALL,4.1,3,AM,Diesel,8.4,5.5,7.1,131,8,3,,,
+2021,Manufacturer_11,Model_22,SUV - SMALL,4.9,4,M,Diesel,8.2,6.0,7.2,132,8,5,,,
+2021,Manufacturer_13,Model_52,SUV - SMALL,4.2,4,A,Diesel,8.4,5.8,7.2,129,8,9,,,
+2021,Manufacturer_7,Model_50,SUV - SMALL,3.7,3,M,Diesel,8.7,6.4,7.7,138,8,6,,,
+2021,Manufacturer_2,Model_69,SUV - SMALL,3.1,4,AM,Diesel,8.7,6.4,7.7,133,8,8,,,
+2022,Manufacturer_11,Model_41,SUV - SMALL,3.1,8,M,Diesel,8.2,5.9,7.2,129,8,9,,,
+2022,Manufacturer_14,Model_87,SUV - SMALL,4.3,6,M,Diesel,8.4,6.2,7.4,135,8,4,,,
+2022,Manufacturer_6,Model_89,SUV - SMALL,4.5,4,M,Diesel,8.3,5.6,7.1,123,8,9,,,
+2022,Manufacturer_11,Model_69,SUV - SMALL,3.8,4,M,Diesel,8.2,5.6,7.0,122,8,5,,,
+2022,Manufacturer_1,Model_46,SUV - SMALL,4.0,3,AM,Diesel,8.2,5.6,7.0,125,8,5,,,
+2023,Manufacturer_7,Model_88,SUV - SMALL,3.1,8,AM,Diesel,8.4,5.9,7.3,133,8,10,,,
+2023,Manufacturer_5,Model_5,SUV - SMALL,4.0,6,A,Diesel,8.1,5.3,6.8,126,8,7,,,
+2023,Manufacturer_9,Model_66,SUV - SMALL,3.0,3,M,Diesel,8.5,6.2,7.5,139,8,4,,,
+2023,Manufacturer_13,Model_6,SUV - SMALL,3.3,8,M,Diesel,8.5,6.4,7.6,137,8,6,,,
+2023,Manufacturer_5,Model_5,SUV - SMALL,5.5,8,AM,Diesel,8.2,6.0,7.2,133,8,8,,,
+2024,Manufacturer_13,Model_31,SUV - SMALL,5.1,4,M,Diesel,8.1,6.0,7.2,125,8,8,,,
+2024,Manufacturer_13,Model_27,SUV - SMALL,5.1,4,A,Diesel,8.6,6.0,7.4,135,8,8,,,
+2024,Manufacturer_5,Model_38,SUV - SMALL,4.1,6,M,Diesel,8.6,5.7,7.3,138,8,4,,,
+2024,Manufacturer_5,Model_84,SUV - SMALL,2.9,4,M,Diesel,8.7,6.0,7.5,129,8,5,,,
+2024,Manufacturer_11,Model_51,SUV - SMALL,3.2,8,A,Diesel,8.7,6.4,7.7,142,8,7,,,
+2021,Manufacturer_13,Model_99,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,16.9,13.4,15.3
+2021,Manufacturer_5,Model_89,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.5,15.6,15.5
+2021,Manufacturer_8,Model_42,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,19.7,14.8,17.5
+2021,Manufacturer_14,Model_94,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,17.9,17.3,17.6
+2021,Manufacturer_11,Model_86,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.5,17.9,16.6
+2021,Manufacturer_13,Model_69,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.5,17.3,18.0
+2021,Manufacturer_14,Model_28,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,17.0,17.8,17.4
+2021,Manufacturer_5,Model_44,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,17.5,14.6,16.2
+2022,Manufacturer_14,Model_63,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,17.7,13.7,15.9
+2022,Manufacturer_13,Model_7,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.9,17.5,18.3
+2022,Manufacturer_14,Model_59,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.2,16.1,15.6
+2022,Manufacturer_3,Model_57,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.1,17.6,16.2
+2022,Manufacturer_7,Model_26,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,17.3,18.0,17.6
+2022,Manufacturer_15,Model_84,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,20.0,17.5,18.9
+2022,Manufacturer_15,Model_36,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,16.5,17.4,16.9
+2022,Manufacturer_2,Model_48,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.5,14.8,15.2
+2023,Manufacturer_1,Model_51,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.3,16.2,17.4
+2023,Manufacturer_13,Model_30,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.1,16.6,17.4
+2023,Manufacturer_2,Model_1,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,17.1,13.5,15.5
+2023,Manufacturer_10,Model_29,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,16.1,13.4,14.9
+2023,Manufacturer_1,Model_90,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,17.6,15.2,16.5
+2023,Manufacturer_14,Model_55,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,16.7,13.6,15.3
+2023,Manufacturer_4,Model_50,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.5,15.4,17.1
+2023,Manufacturer_2,Model_41,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.4,17.0,16.1
+2024,Manufacturer_7,Model_100,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,16.8,14.5,15.8
+2024,Manufacturer_11,Model_87,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,19.1,17.4,18.3
+2024,Manufacturer_1,Model_79,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.7,15.7,15.7
+2024,Manufacturer_12,Model_28,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.3,15.2,16.9
+2024,Manufacturer_7,Model_79,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.1,13.8,16.2
+2024,Manufacturer_2,Model_13,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,18.4,17.3,17.9
+2024,Manufacturer_12,Model_50,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,15.7,13.6,14.8
+2024,Manufacturer_13,Model_18,SUV - SMALL,0.0,0,A,Electric,,,,0,10,10,16.8,15.1,16.0
+2021,Manufacturer_10,Model_37,SUV - SMALL,3.3,3,M,Natural Gas,10.1,7.1,8.8,133,8,7,,,
+2021,Manufacturer_11,Model_7,SUV - SMALL,3.1,4,AM,Natural Gas,10.6,7.1,9.0,134,8,9,,,
+2021,Manufacturer_1,Model_47,SUV - SMALL,2.8,6,A,Natural Gas,10.5,7.4,9.1,137,8,9,,,
+2021,Manufacturer_13,Model_61,SUV - SMALL,5.1,3,A,Natural Gas,10.6,7.3,9.1,139,8,4,,,
+2021,Manufacturer_7,Model_65,SUV - SMALL,2.5,6,M,Natural Gas,10.2,7.6,9.0,141,8,9,,,
+2022,Manufacturer_3,Model_36,SUV - SMALL,3.8,3,AM,Natural Gas,10.4,7.4,9.1,137,8,4,,,
+2022,Manufacturer_7,Model_76,SUV - SMALL,4.0,3,AM,Natural Gas,10.2,7.5,9.0,135,8,9,,,
+2022,Manufacturer_7,Model_15,SUV - SMALL,4.7,8,M,Natural Gas,10.9,7.1,9.2,132,8,3,,,
+2022,Manufacturer_12,Model_18,SUV - SMALL,3.4,3,A,Natural Gas,10.8,7.8,9.5,137,8,10,,,
+2022,Manufacturer_3,Model_48,SUV - SMALL,5.4,4,M,Natural Gas,10.5,7.6,9.2,141,8,7,,,
+2023,Manufacturer_7,Model_35,SUV - SMALL,4.7,3,AM,Natural Gas,10.1,7.5,8.9,131,8,4,,,
+2023,Manufacturer_3,Model_48,SUV - SMALL,4.0,4,AM,Natural Gas,10.5,6.9,8.9,138,8,4,,,
+2023,Manufacturer_1,Model_6,SUV - SMALL,5.2,3,A,Natural Gas,10.7,7.1,9.1,140,8,3,,,
+2023,Manufacturer_14,Model_5,SUV - SMALL,3.9,8,A,Natural Gas,10.4,6.9,8.8,138,8,8,,,
+2023,Manufacturer_10,Model_48,SUV - SMALL,3.2,3,M,Natural Gas,10.9,7.4,9.3,144,8,3,,,
+2024,Manufacturer_2,Model_60,SUV - SMALL,3.0,6,AM,Natural Gas,10.8,8.1,9.6,151,7,8,,,
+2024,Manufacturer_13,Model_39,SUV - SMALL,2.8,4,AM,Natural Gas,10.5,7.2,9.0,132,8,8,,,
+2024,Manufacturer_15,Model_70,SUV - SMALL,4.3,4,A,Natural Gas,10.5,7.6,9.2,134,8,3,,,
+2024,Manufacturer_12,Model_2,SUV - SMALL,5.3,6,A,Natural Gas,10.0,7.0,8.7,132,8,9,,,
+2024,Manufacturer_4,Model_54,SUV - SMALL,5.0,8,A,Natural Gas,10.7,7.1,9.1,137,8,5,,,
+2021,Manufacturer_12,Model_48,SUV - STANDARD,2.8,8,M,Regular Gasoline,13.0,9.6,11.5,253,5,4,,,
+2021,Manufacturer_10,Model_73,SUV - STANDARD,4.2,3,AM,Regular Gasoline,12.5,8.9,10.9,237,6,5,,,
+2021,Manufacturer_12,Model_95,SUV - STANDARD,3.2,6,AM,Regular Gasoline,12.2,8.3,10.4,236,6,10,,,
+2021,Manufacturer_10,Model_14,SUV - STANDARD,3.3,4,A,Regular Gasoline,12.0,8.0,10.2,231,6,5,,,
+2021,Manufacturer_13,Model_27,SUV - STANDARD,3.8,8,AM,Regular Gasoline,12.3,8.1,10.4,226,6,10,,,
+2021,Manufacturer_14,Model_91,SUV - STANDARD,3.3,3,A,Regular Gasoline,12.0,8.0,10.2,229,6,8,,,
+2022,Manufacturer_1,Model_87,SUV - STANDARD,2.9,6,AM,Regular Gasoline,12.8,9.6,11.4,248,6,5,,,
+2022,Manufacturer_4,Model_13,SUV - STANDARD,2.6,8,A,Regular Gasoline,12.4,8.6,10.7,241,6,5,,,
+2022,Manufacturer_4,Model_52,SUV - STANDARD,2.9,6,M,Regular Gasoline,12.0,8.7,10.5,225,6,4,,,
+2022,Manufacturer_2,Model_26,SUV - STANDARD,4.2,8,A,Regular Gasoline,12.2,8.9,10.7,224,6,4,,,
+2022,Manufacturer_8,Model_7,SUV - STANDARD,5.2,4,M,Regular Gasoline,12.9,8.8,11.1,233,6,9,,,
+2022,Manufacturer_3,Model_46,SUV - STANDARD,5.0,4,A,Regular Gasoline,12.4,8.1,10.5,235,6,7,,,
+2023,Manufacturer_4,Model_83,SUV - STANDARD,3.3,6,AM,Regular Gasoline,13.0,8.5,11.0,245,6,9,,,
+2023,Manufacturer_7,Model_26,SUV - STANDARD,5.1,4,M,Regular Gasoline,12.5,8.2,10.6,230,6,3,,,
+2023,Manufacturer_8,Model_45,SUV - STANDARD,5.5,6,AM,Regular Gasoline,12.9,8.8,11.1,245,6,7,,,
+2023,Manufacturer_13,Model_36,SUV - STANDARD,3.0,3,AM,Regular Gasoline,12.3,8.3,10.5,240,6,8,,,
+2023,Manufacturer_11,Model_31,SUV - STANDARD,4.8,6,M,Regular Gasoline,13.1,9.8,11.6,245,6,3,,,
+2023,Manufacturer_7,Model_46,SUV - STANDARD,4.8,4,A,Regular Gasoline,13.1,9.3,11.4,263,5,6,,,
+2024,Manufacturer_1,Model_91,SUV - STANDARD,4.3,6,M,Regular Gasoline,12.9,9.3,11.3,259,5,5,,,
+2024,Manufacturer_8,Model_70,SUV - STANDARD,4.2,6,A,Regular Gasoline,12.1,9.1,10.8,247,6,10,,,
+2024,Manufacturer_8,Model_1,SUV - STANDARD,2.6,6,M,Regular Gasoline,11.9,8.5,10.4,218,6,6,,,
+2024,Manufacturer_14,Model_42,SUV - STANDARD,4.9,3,A,Regular Gasoline,12.3,8.2,10.5,238,6,5,,,
+2024,Manufacturer_14,Model_47,SUV - STANDARD,4.3,3,AM,Regular Gasoline,13.0,9.5,11.4,259,5,9,,,
+2024,Manufacturer_12,Model_56,SUV - STANDARD,4.3,8,M,Regular Gasoline,12.3,8.4,10.5,242,6,8,,,
+2021,Manufacturer_6,Model_29,SUV - STANDARD,4.6,4,AM,Diesel,10.7,7.9,9.4,171,7,7,,,
+2021,Manufacturer_12,Model_74,SUV - STANDARD,4.7,8,M,Diesel,10.4,6.9,8.8,151,7,3,,,
+2021,Manufacturer_11,Model_73,SUV - STANDARD,3.0,3,AM,Diesel,10.4,7.6,9.1,166,7,5,,,
+2021,Manufacturer_11,Model_12,SUV - STANDARD,3.5,6,AM,Diesel,10.2,7.0,8.8,156,7,3,,,
+2022,Manufacturer_2,Model_93,SUV - STANDARD,3.3,3,A,Diesel,10.4,6.8,8.8,155,7,9,,,
+2022,Manufacturer_15,Model_49,SUV - STANDARD,3.8,6,M,Diesel,10.5,7.0,8.9,159,7,9,,,
+2022,Manufacturer_11,Model_29,SUV - STANDARD,2.8,4,AM,Diesel,10.6,7.8,9.3,170,7,4,,,
+2022,Manufacturer_2,Model_10,SUV - STANDARD,4.9,6,A,Diesel,10.1,6.6,8.5,149,8,9,,,
+2023,Manufacturer_6,Model_77,SUV - STANDARD,3.0,8,M,Diesel,10.2,7.6,9.0,170,7,3,,,
+2023,Manufacturer_1,Model_13,SUV - STANDARD,3.8,6,A,Diesel,10.8,7.7,9.4,168,7,6,,,
+2023,Manufacturer_11,Model_37,SUV - STANDARD,3.7,6,A,Diesel,10.7,7.9,9.4,170,7,4,,,
+2023,Manufacturer_6,Model_1,SUV - STANDARD,2.6,8,A,Diesel,10.7,7.9,9.4,163,7,7,,,
+2024,Manufacturer_4,Model_22,SUV - STANDARD,5.0,6,A,Diesel,10.8,7.5,9.3,161,7,10,,,
+2024,Manufacturer_11,Model_34,SUV - STANDARD,5.0,3,M,Diesel,10.4,7.2,9.0,162,7,9,,,
+2024,Manufacturer_5,Model_57,SUV - STANDARD,3.1,8,AM,Diesel,11.0,7.6,9.5,170,7,6,,,
+2024,Manufacturer_2,Model_11,SUV - STANDARD,5.0,6,M,Diesel,10.7,7.1,9.1,167,7,9,,,
+2021,Manufacturer_14,Model_67,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,17.8,17.2,17.5
+2021,Manufacturer_14,Model_61,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,17.1,15.7,16.5
+2021,Manufacturer_5,Model_11,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,17.9,14.2,16.2
+2021,Manufacturer_1,Model_65,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,17.0,17.3,17.1
+2021,Manufacturer_10,Model_87,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,17.9,15.6,16.9
+2022,Manufacturer_13,Model_58,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,19.9,13.7,17.1
+2022,Manufacturer_4,Model_25,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,15.9,17.9,16.8
+2022,Manufacturer_11,Model_56,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,15.6,15.1,15.4
+2022,Manufacturer_3,Model_77,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,16.0,17.1,16.5
+2022,Manufacturer_15,Model_9,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,16.3,17.6,16.9
+2023,Manufacturer_9,Model_42,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,15.4,15.8,15.6
+2023,Manufacturer_15,Model_2,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,19.3,15.6,17.6
+2023,Manufacturer_9,Model_54,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,18.9,16.1,17.6
+2023,Manufacturer_10,Model_76,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,15.6,13.7,14.7
+2023,Manufacturer_2,Model_14,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,17.9,17.8,17.9
+2024,Manufacturer_5,Model_69,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,17.8,13.5,15.9
+2024,Manufacturer_5,Model_50,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,19.4,17.4,18.5
+2024,Manufacturer_8,Model_5,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,18.3,15.9,17.2
+2024,Manufacturer_10,Model_78,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,15.9,15.0,15.5
+2024,Manufacturer_7,Model_43,SUV - STANDARD,0.0,0,A,Electric,,,,0,10,10,18.4,15.0,16.9
+2021,Manufacturer_6,Model_39,SUV - STANDARD,2.6,6,AM,Natural Gas,13.1,8.9,11.2,166,7,10,,,
+2021,Manufacturer_5,Model_96,SUV - STANDARD,5.1,8,AM,Natural Gas,13.4,10.0,11.9,174,7,7,,,
+2021,Manufacturer_15,Model_53,SUV - STANDARD,4.7,8,M,Natural Gas,13.3,8.8,11.3,169,7,8,,,
+2021,Manufacturer_9,Model_52,SUV - STANDARD,5.0,4,M,Natural Gas,13.1,8.7,11.1,163,7,3,,,
+2021,Manufacturer_1,Model_59,SUV - STANDARD,3.0,3,AM,Natural Gas,13.6,9.1,11.6,166,7,6,,,
+2022,Manufacturer_2,Model_88,SUV - STANDARD,3.3,3,A,Natural Gas,13.5,9.5,11.7,178,7,8,,,
+2022,Manufacturer_9,Model_45,SUV - STANDARD,4.0,6,A,Natural Gas,13.1,9.8,11.6,174,7,7,,,
+2022,Manufacturer_3,Model_74,SUV - STANDARD,4.7,4,A,Natural Gas,13.4,9.1,11.5,171,7,6,,,
+2022,Manufacturer_13,Model_99,SUV - STANDARD,4.5,3,AM,Natural Gas,12.8,8.8,11.0,157,7,5,,,
+2022,Manufacturer_13,Model_40,SUV - STANDARD,4.4,6,AM,Natural Gas,13.3,8.7,11.2,164,7,9,,,
+2023,Manufacturer_9,Model_80,SUV - STANDARD,5.1,8,M,Natural Gas,13.1,8.8,11.2,165,7,4,,,
+2023,Manufacturer_9,Model_83,SUV - STANDARD,2.5,6,AM,Natural Gas,13.8,10.3,12.2,189,7,4,,,
+2023,Manufacturer_5,Model_34,SUV - STANDARD,3.9,6,A,Natural Gas,12.9,8.7,11.0,162,7,5,,,
+2023,Manufacturer_13,Model_77,SUV - STANDARD,4.1,8,M,Natural Gas,12.8,8.4,10.8,168,7,8,,,
+2023,Manufacturer_5,Model_54,SUV - STANDARD,4.5,8,AM,Natural Gas,13.4,9.6,11.7,184,7,3,,,
+2024,Manufacturer_12,Model_29,SUV - STANDARD,4.2,8,M,Natural Gas,13.8,10.1,12.1,179,7,8,,,
+2024,Manufacturer_3,Model_38,SUV - STANDARD,4.0,3,AM,Natural Gas,13.6,10.0,12.0,187,7,5,,,
+2024,Manufacturer_11,Model_43,SUV - STANDARD,4.7,3,A,Natural Gas,13.4,9.5,11.6,181,7,8,,,
+2024,Manufacturer_6,Model_34,SUV - STANDARD,3.2,6,AM,Natural Gas,13.6,9.4,11.7,182,7,4,,,
+2024,Manufacturer_2,Model_61,SUV - STANDARD,3.9,4,M,Natural Gas,13.6,9.6,11.8,185,7,4,,,
+2021,Manufacturer_4,Model_44,PICKUP TRUCK - SMALL,4.1,8,M,Regular Gasoline,11.4,8.4,10.1,214,6,10,,,
+2021,Manufacturer_6,Model_81,PICKUP TRUCK - SMALL,2.9,4,AM,Regular Gasoline,11.9,7.9,10.1,213,6,3,,,
+2021,Manufacturer_13,Model_21,PICKUP TRUCK - SMALL,2.5,8,A,Regular Gasoline,11.2,8.1,9.8,208,6,5,,,
+2021,Manufacturer_7,Model_1,PICKUP TRUCK - SMALL,4.3,3,M,Regular Gasoline,11.7,8.1,10.1,233,6,6,,,
+2021,Manufacturer_9,Model_25,PICKUP TRUCK - SMALL,4.7,3,M,Regular Gasoline,12.0,8.9,10.6,239,6,3,,,
+2021,Manufacturer_3,Model_14,PICKUP TRUCK - SMALL,4.4,8,M,Regular Gasoline,11.2,8.1,9.8,212,6,7,,,
+2021,Manufacturer_12,Model_67,PICKUP TRUCK - SMALL,3.0,6,AM,Regular Gasoline,11.9,8.1,10.2,220,6,5,,,
+2021,Manufacturer_15,Model_52,PICKUP TRUCK - SMALL,3.5,3,A,Regular Gasoline,12.0,8.2,10.3,220,6,6,,,
+2022,Manufacturer_3,Model_16,PICKUP TRUCK - SMALL,4.7,6,M,Regular Gasoline,11.1,8.0,9.7,215,6,3,,,
+2022,Manufacturer_10,Model_7,PICKUP TRUCK - SMALL,3.6,3,M,Regular Gasoline,11.7,8.5,10.3,229,6,3,,,
+2022,Manufacturer_5,Model_61,PICKUP TRUCK - SMALL,2.6,4,A,Regular Gasoline,11.1,7.7,9.6,203,6,3,,,
+2022,Manufacturer_10,Model_90,PICKUP TRUCK - SMALL,3.4,4,AM,Regular Gasoline,11.7,8.4,10.2,219,6,4,,,
+2022,Manufacturer_8,Model_26,PICKUP TRUCK - SMALL,4.0,4,AM,Regular Gasoline,11.6,7.9,9.9,224,6,6,,,
+2022,Manufacturer_15,Model_27,PICKUP TRUCK - SMALL,3.6,8,AM,Regular Gasoline,11.4,7.6,9.7,214,6,6,,,
+2022,Manufacturer_11,Model_64,PICKUP TRUCK - SMALL,2.5,4,A,Regular Gasoline,11.7,8.7,10.3,234,6,4,,,
+2022,Manufacturer_5,Model_34,PICKUP TRUCK - SMALL,4.7,8,A,Regular Gasoline,11.0,7.4,9.4,201,6,4,,,
+2023,Manufacturer_11,Model_41,PICKUP TRUCK - SMALL,4.9,8,M,Regular Gasoline,11.9,8.7,10.5,228,6,4,,,
+2023,Manufacturer_11,Model_83,PICKUP TRUCK - SMALL,2.8,4,AM,Regular Gasoline,11.8,7.7,10.0,228,6,8,,,
+2023,Manufacturer_6,Model_44,PICKUP TRUCK - SMALL,5.2,4,A,Regular Gasoline,12.0,8.1,10.2,230,6,9,,,
+2023,Manufacturer_8,Model_54,PICKUP TRUCK - SMALL,3.7,4,A,Regular Gasoline,11.5,8.4,10.1,226,6,5,,,
+2023,Manufacturer_7,Model_76,PICKUP TRUCK - SMALL,4.6,8,M,Regular Gasoline,11.0,8.2,9.7,206,6,10,,,
+2023,Manufacturer_11,Model_94,PICKUP TRUCK - SMALL,3.0,4,AM,Regular Gasoline,11.4,7.8,9.8,205,6,10,,,
+2023,Manufacturer_6,Model_2,PICKUP TRUCK - SMALL,2.8,4,M,Regular Gasoline,11.4,7.5,9.6,206,6,8,,,
+2023,Manufacturer_12,Model_32,PICKUP TRUCK - SMALL,4.1,8,AM,Regular Gasoline,11.7,8.3,10.2,223,6,9,,,
+2024,Manufacturer_1,Model_83,PICKUP TRUCK - SMALL,2.9,4,M,Regular Gasoline,11.9,8.8,10.5,234,6,10,,,
+2024,Manufacturer_4,Model_43,PICKUP TRUCK - SMALL,5.1,6,A,Regular Gasoline,11.9,7.8,10.1,222,6,6,,,
+2024,Manufacturer_8,Model_74,PICKUP TRUCK - SMALL,4.2,8,A,Regular Gasoline,11.4,8.3,10.0,211,6,10,,,
+2024,Manufacturer_2,Model_52,PICKUP TRUCK - SMALL,3.8,8,A,Regular Gasoline,11.1,7.8,9.6,214,6,3,,,
+2024,Manufacturer_15,Model_66,PICKUP TRUCK - SMALL,5.0,4,M,Regular Gasoline,11.8,8.8,10.5,234,6,10,,,
+2024,Manufacturer_8,Model_43,PICKUP TRUCK - SMALL,5.4,8,M,Regular Gasoline,11.3,7.4,9.5,203,6,8,,,
+2024,Manufacturer_6,Model_46,PICKUP TRUCK - SMALL,4.6,6,M,Regular Gasoline,11.1,8.1,9.8,210,6,8,,,
+2024,Manufacturer_12,Model_96,PICKUP TRUCK - SMALL,4.6,8,A,Regular Gasoline,11.0,7.3,9.3,197,7,7,,,
+2021,Manufacturer_13,Model_25,PICKUP TRUCK - SMALL,3.1,6,A,Diesel,10.2,7.0,8.8,158,7,9,,,
+2021,Manufacturer_15,Model_58,PICKUP TRUCK - SMALL,2.6,8,M,Diesel,9.9,7.1,8.6,149,8,5,,,
+2021,Manufacturer_7,Model_75,PICKUP TRUCK - SMALL,5.4,8,M,Diesel,9.3,6.7,8.1,147,8,5,,,
+2021,Manufacturer_11,Model_77,PICKUP TRUCK - SMALL,4.6,6,M,Diesel,9.5,6.9,8.3,143,8,9,,,
+2021,Manufacturer_7,Model_44,PICKUP TRUCK - SMALL,3.8,6,AM,Diesel,9.9,7.1,8.6,151,7,5,,,
+2022,Manufacturer_14,Model_90,PICKUP TRUCK - SMALL,2.9,6,M,Diesel,9.9,7.3,8.7,157,7,6,,,
+2022,Manufacturer_11,Model_17,PICKUP TRUCK - SMALL,3.1,4,M,Diesel,9.9,6.7,8.5,151,7,8,,,
+2022,Manufacturer_11,Model_91,PICKUP TRUCK - SMALL,4.6,8,M,Diesel,10.0,7.1,8.7,158,7,7,,,
+2022,Manufacturer_7,Model_19,PICKUP TRUCK - SMALL,5.1,3,M,Diesel,9.7,6.3,8.2,142,8,3,,,
+2022,Manufacturer_5,Model_19,PICKUP TRUCK - SMALL,3.1,3,M,Diesel,10.0,6.7,8.5,150,7,7,,,
+2023,Manufacturer_10,Model_87,PICKUP TRUCK - SMALL,3.1,4,M,Diesel,9.8,6.7,8.4,150,7,9,,,
+2023,Manufacturer_11,Model_7,PICKUP TRUCK - SMALL,3.2,8,AM,Diesel,10.1,7.4,8.9,157,7,9,,,
+2023,Manufacturer_1,Model_96,PICKUP TRUCK - SMALL,5.4,6,A,Diesel,10.2,6.9,8.7,157,7,10,,,
+2023,Manufacturer_13,Model_76,PICKUP TRUCK - SMALL,5.0,4,M,Diesel,10.2,7.3,8.9,163,7,6,,,
+2023,Manufacturer_3,Model_95,PICKUP TRUCK - SMALL,3.4,3,AM,Diesel,9.5,6.8,8.3,145,8,3,,,
+2024,Manufacturer_5,Model_1,PICKUP TRUCK - SMALL,3.8,6,AM,Diesel,9.8,6.5,8.3,151,7,5,,,
+2024,Manufacturer_11,Model_79,PICKUP TRUCK - SMALL,2.6,6,AM,Diesel,10.2,7.2,8.9,165,7,8,,,
+2024,Manufacturer_9,Model_9,PICKUP TRUCK - SMALL,2.7,4,AM,Diesel,10.0,7.0,8.7,164,7,9,,,
+2024,Manufacturer_6,Model_38,PICKUP TRUCK - SMALL,2.8,4,M,Diesel,9.5,6.4,8.1,143,8,10,,,
+2024,Manufacturer_11,Model_45,PICKUP TRUCK - SMALL,5.5,8,A,Diesel,10.1,7.6,9.0,154,7,6,,,
+2021,Manufacturer_7,Model_33,PICKUP TRUCK - SMALL,4.5,6,A,Natural Gas,11.9,8.8,10.5,165,7,8,,,
+2021,Manufacturer_11,Model_25,PICKUP TRUCK - SMALL,4.0,6,M,Natural Gas,12.1,8.5,10.5,154,7,4,,,
+2022,Manufacturer_1,Model_81,PICKUP TRUCK - SMALL,5.3,3,A,Natural Gas,11.7,8.7,10.3,155,7,6,,,
+2022,Manufacturer_12,Model_95,PICKUP TRUCK - SMALL,5.1,8,M,Natural Gas,12.0,7.9,10.2,154,7,4,,,
+2023,Manufacturer_2,Model_10,PICKUP TRUCK - SMALL,4.7,3,A,Natural Gas,11.7,8.1,10.1,149,8,7,,,
+2023,Manufacturer_7,Model_58,PICKUP TRUCK - SMALL,4.2,8,AM,Natural Gas,12.2,8.2,10.4,152,7,8,,,
+2024,Manufacturer_10,Model_9,PICKUP TRUCK - SMALL,2.6,3,M,Natural Gas,12.3,8.7,10.7,163,7,4,,,
+2024,Manufacturer_10,Model_12,PICKUP TRUCK - SMALL,3.6,6,AM,Natural Gas,12.1,8.2,10.3,157,7,9,,,
+2021,Manufacturer_12,Model_51,PICKUP TRUCK - STANDARD,5.0,6,M,Regular Gasoline,13.3,8.9,11.3,242,6,5,,,
+2021,Manufacturer_11,Model_48,PICKUP TRUCK - STANDARD,3.4,3,M,Regular Gasoline,14.5,10.8,12.8,292,5,5,,,
+2021,Manufacturer_2,Model_40,PICKUP TRUCK - STANDARD,2.9,4,M,Regular Gasoline,13.3,9.4,11.5,254,5,8,,,
+2021,Manufacturer_3,Model_29,PICKUP TRUCK - STANDARD,3.1,6,A,Regular Gasoline,14.6,10.7,12.8,272,5,4,,,
+2021,Manufacturer_15,Model_71,PICKUP TRUCK - STANDARD,3.0,8,M,Regular Gasoline,14.4,10.6,12.7,289,5,4,,,
+2021,Manufacturer_8,Model_43,PICKUP TRUCK - STANDARD,3.4,6,A,Regular Gasoline,13.4,8.8,11.3,254,5,6,,,
+2021,Manufacturer_8,Model_43,PICKUP TRUCK - STANDARD,2.8,6,M,Regular Gasoline,14.2,10.5,12.5,270,5,5,,,
+2021,Manufacturer_1,Model_41,PICKUP TRUCK - STANDARD,4.2,4,A,Regular Gasoline,13.8,9.4,11.8,258,5,9,,,
+2022,Manufacturer_8,Model_60,PICKUP TRUCK - STANDARD,3.3,8,AM,Regular Gasoline,13.8,9.9,12.0,260,5,7,,,
+2022,Manufacturer_5,Model_18,PICKUP TRUCK - STANDARD,4.0,4,AM,Regular Gasoline,13.5,9.6,11.7,247,6,4,,,
+2022,Manufacturer_14,Model_75,PICKUP TRUCK - STANDARD,4.7,8,M,Regular Gasoline,14.5,10.7,12.8,285,5,6,,,
+2022,Manufacturer_8,Model_84,PICKUP TRUCK - STANDARD,5.2,4,AM,Regular Gasoline,14.1,9.9,12.2,282,5,9,,,
+2022,Manufacturer_8,Model_65,PICKUP TRUCK - STANDARD,3.2,3,AM,Regular Gasoline,14.4,10.4,12.6,271,5,8,,,
+2022,Manufacturer_10,Model_88,PICKUP TRUCK - STANDARD,4.0,4,M,Regular Gasoline,14.2,10.4,12.5,283,5,5,,,
+2022,Manufacturer_3,Model_95,PICKUP TRUCK - STANDARD,3.8,8,AM,Regular Gasoline,13.6,10.1,12.0,268,5,3,,,
+2022,Manufacturer_1,Model_86,PICKUP TRUCK - STANDARD,3.2,4,M,Regular Gasoline,14.0,9.2,11.8,256,5,8,,,
+2023,Manufacturer_11,Model_42,PICKUP TRUCK - STANDARD,3.7,3,M,Regular Gasoline,14.6,10.8,12.9,271,5,7,,,
+2023,Manufacturer_11,Model_49,PICKUP TRUCK - STANDARD,5.0,6,M,Regular Gasoline,13.7,9.7,11.9,253,5,4,,,
+2023,Manufacturer_6,Model_45,PICKUP TRUCK - STANDARD,4.0,8,AM,Regular Gasoline,13.8,10.2,12.2,269,5,3,,,
+2023,Manufacturer_11,Model_36,PICKUP TRUCK - STANDARD,4.0,4,A,Regular Gasoline,13.5,9.0,11.5,242,6,5,,,
+2023,Manufacturer_7,Model_43,PICKUP TRUCK - STANDARD,3.0,3,AM,Regular Gasoline,14.1,10.3,12.4,277,5,10,,,
+2023,Manufacturer_4,Model_6,PICKUP TRUCK - STANDARD,3.9,4,M,Regular Gasoline,14.1,10.1,12.3,268,5,5,,,
+2023,Manufacturer_3,Model_34,PICKUP TRUCK - STANDARD,2.9,4,M,Regular Gasoline,14.0,10.3,12.3,261,5,9,,,
+2023,Manufacturer_11,Model_37,PICKUP TRUCK - STANDARD,4.3,3,A,Regular Gasoline,14.1,9.2,11.9,268,5,10,,,
+2024,Manufacturer_7,Model_77,PICKUP TRUCK - STANDARD,4.3,4,M,Regular Gasoline,14.0,9.8,12.1,259,5,5,,,
+2024,Manufacturer_15,Model_59,PICKUP TRUCK - STANDARD,4.4,3,A,Regular Gasoline,14.0,9.3,11.9,267,5,9,,,
+2024,Manufacturer_9,Model_88,PICKUP TRUCK - STANDARD,3.7,8,A,Regular Gasoline,13.5,9.0,11.5,262,5,4,,,
+2024,Manufacturer_9,Model_65,PICKUP TRUCK - STANDARD,3.0,3,A,Regular Gasoline,14.6,10.4,12.7,290,5,10,,,
+2024,Manufacturer_13,Model_87,PICKUP TRUCK - STANDARD,4.5,8,M,Regular Gasoline,14.6,10.3,12.7,265,5,9,,,
+2024,Manufacturer_13,Model_62,PICKUP TRUCK - STANDARD,3.6,8,AM,Regular Gasoline,13.4,9.4,11.6,248,6,4,,,
+2024,Manufacturer_2,Model_37,PICKUP TRUCK - STANDARD,3.8,8,AM,Regular Gasoline,13.7,10.0,12.0,275,5,6,,,
+2024,Manufacturer_9,Model_1,PICKUP TRUCK - STANDARD,2.5,8,M,Regular Gasoline,14.3,9.3,12.1,267,5,6,,,
+2021,Manufacturer_5,Model_69,PICKUP TRUCK - STANDARD,3.7,8,M,Diesel,11.4,7.9,9.8,178,7,8,,,
+2021,Manufacturer_9,Model_72,PICKUP TRUCK - STANDARD,4.3,8,A,Diesel,12.5,8.6,10.7,187,7,8,,,
+2021,Manufacturer_13,Model_91,PICKUP TRUCK - STANDARD,4.2,8,M,Diesel,11.9,8.9,10.6,192,7,5,,,
+2021,Manufacturer_12,Model_21,PICKUP TRUCK - STANDARD,5.1,3,A,Diesel,12.1,8.8,10.6,190,7,9,,,
+2021,Manufacturer_1,Model_21,PICKUP TRUCK - STANDARD,4.9,8,M,Diesel,12.3,8.8,10.7,196,7,3,,,
+2021,Manufacturer_2,Model_9,PICKUP TRUCK - STANDARD,4.9,6,A,Diesel,12.3,8.6,10.6,193,7,8,,,
+2021,Manufacturer_10,Model_84,PICKUP TRUCK - STANDARD,2.7,6,M,Diesel,11.3,7.8,9.7,183,7,3,,,
+2022,Manufacturer_4,Model_85,PICKUP TRUCK - STANDARD,5.3,6,A,Diesel,12.3,8.8,10.7,191,7,3,,,
+2022,Manufacturer_11,Model_5,PICKUP TRUCK - STANDARD,4.9,6,A,Diesel,11.9,8.6,10.4,189,7,3,,,
+2022,Manufacturer_11,Model_51,PICKUP TRUCK - STANDARD,5.4,8,M,Diesel,11.4,7.7,9.7,173,7,6,,,
+2022,Manufacturer_5,Model_93,PICKUP TRUCK - STANDARD,4.1,6,AM,Diesel,12.2,8.0,10.3,178,7,7,,,
+2022,Manufacturer_1,Model_34,PICKUP TRUCK - STANDARD,3.2,4,AM,Diesel,12.5,8.7,10.8,193,7,4,,,
+2022,Manufacturer_9,Model_33,PICKUP TRUCK - STANDARD,4.2,6,M,Diesel,11.9,8.1,10.2,177,7,10,,,
+2022,Manufacturer_13,Model_59,PICKUP TRUCK - STANDARD,5.4,8,M,Diesel,12.0,8.7,10.5,194,7,3,,,
+2023,Manufacturer_4,Model_87,PICKUP TRUCK - STANDARD,3.9,4,AM,Diesel,11.6,8.0,10.0,185,7,9,,,
+2023,Manufacturer_4,Model_37,PICKUP TRUCK - STANDARD,5.4,3,AM,Diesel,11.9,7.7,10.0,186,7,8,,,
+2023,Manufacturer_15,Model_74,PICKUP TRUCK - STANDARD,2.7,6,A,Diesel,12.4,8.7,10.7,190,7,6,,,
+2023,Manufacturer_4,Model_30,PICKUP TRUCK - STANDARD,4.0,4,A,Diesel,11.5,8.3,10.1,189,7,8,,,
+2023,Manufacturer_11,Model_64,PICKUP TRUCK - STANDARD,3.0,3,M,Diesel,11.4,8.5,10.1,185,7,3,,,
+2023,Manufacturer_15,Model_74,PICKUP TRUCK - STANDARD,5.0,6,AM,Diesel,11.7,8.0,10.0,187,7,5,,,
+2023,Manufacturer_10,Model_17,PICKUP TRUCK - STANDARD,5.5,3,M,Diesel,12.4,8.4,10.6,185,7,9,,,
+2024,Manufacturer_11,Model_100,PICKUP TRUCK - STANDARD,3.9,4,AM,Diesel,11.9,8.3,10.3,183,7,4,,,
+2024,Manufacturer_4,Model_49,PICKUP TRUCK - STANDARD,4.6,3,AM,Diesel,11.9,8.6,10.4,178,7,8,,,
+2024,Manufacturer_8,Model_79,PICKUP TRUCK - STANDARD,4.3,6,AM,Diesel,11.6,8.2,10.1,177,7,5,,,
+2024,Manufacturer_14,Model_52,PICKUP TRUCK - STANDARD,4.0,6,AM,Diesel,11.6,8.4,10.2,181,7,5,,,
+2024,Manufacturer_12,Model_35,PICKUP TRUCK - STANDARD,4.2,4,M,Diesel,12.5,9.0,10.9,202,6,9,,,
+2024,Manufacturer_8,Model_2,PICKUP TRUCK - STANDARD,5.1,4,AM,Diesel,11.5,8.4,10.1,186,7,10,,,
+2024,Manufacturer_6,Model_63,PICKUP TRUCK - STANDARD,2.9,6,AM,Diesel,12.4,8.8,10.8,195,7,3,,,
+2021,Manufacturer_14,Model_81,PICKUP TRUCK - STANDARD,2.8,3,AM,Natural Gas,14.2,9.5,12.1,177,7,8,,,
+2021,Manufacturer_6,Model_3,PICKUP TRUCK - STANDARD,3.3,8,A,Natural Gas,14.5,10.2,12.6,195,7,8,,,
+2021,Manufacturer_11,Model_69,PICKUP TRUCK - STANDARD,5.1,4,AM,Natural Gas,15.4,10.3,13.1,198,7,8,,,
+2021,Manufacturer_2,Model_49,PICKUP TRUCK - STANDARD,3.5,6,AM,Natural Gas,14.7,10.7,12.9,192,7,5,,,
+2021,Manufacturer_10,Model_74,PICKUP TRUCK - STANDARD,5.1,8,A,Natural Gas,14.9,11.1,13.2,196,7,4,,,
+2021,Manufacturer_5,Model_78,PICKUP TRUCK - STANDARD,3.0,8,AM,Natural Gas,14.3,9.7,12.2,179,7,10,,,
+2021,Manufacturer_8,Model_53,PICKUP TRUCK - STANDARD,4.8,4,A,Natural Gas,15.3,11.1,13.4,201,6,3,,,
+2021,Manufacturer_12,Model_11,PICKUP TRUCK - STANDARD,2.9,4,A,Natural Gas,14.3,9.7,12.2,187,7,9,,,
+2022,Manufacturer_1,Model_99,PICKUP TRUCK - STANDARD,2.8,8,M,Natural Gas,14.1,10.4,12.4,187,7,4,,,
+2022,Manufacturer_7,Model_40,PICKUP TRUCK - STANDARD,2.8,4,A,Natural Gas,14.9,9.8,12.6,197,7,7,,,
+2022,Manufacturer_1,Model_85,PICKUP TRUCK - STANDARD,3.8,6,AM,Natural Gas,14.2,10.0,12.3,178,7,10,,,
+2022,Manufacturer_3,Model_90,PICKUP TRUCK - STANDARD,3.9,4,M,Natural Gas,15.2,11.3,13.4,202,6,10,,,
+2022,Manufacturer_11,Model_69,PICKUP TRUCK - STANDARD,4.4,6,AM,Natural Gas,14.9,10.5,12.9,194,7,10,,,
+2022,Manufacturer_5,Model_20,PICKUP TRUCK - STANDARD,4.1,6,A,Natural Gas,15.1,10.5,13.0,192,7,3,,,
+2022,Manufacturer_9,Model_2,PICKUP TRUCK - STANDARD,4.1,8,AM,Natural Gas,15.1,10.0,12.8,188,7,7,,,
+2022,Manufacturer_1,Model_71,PICKUP TRUCK - STANDARD,2.5,6,A,Natural Gas,14.6,9.9,12.5,182,7,9,,,
+2023,Manufacturer_11,Model_50,PICKUP TRUCK - STANDARD,5.1,8,A,Natural Gas,14.6,9.9,12.5,192,7,7,,,
+2023,Manufacturer_10,Model_89,PICKUP TRUCK - STANDARD,2.7,6,AM,Natural Gas,14.9,10.5,12.9,199,7,7,,,
+2023,Manufacturer_11,Model_59,PICKUP TRUCK - STANDARD,3.7,8,AM,Natural Gas,15.2,10.2,12.9,189,7,10,,,
+2023,Manufacturer_3,Model_14,PICKUP TRUCK - STANDARD,3.1,6,AM,Natural Gas,14.0,9.2,11.8,178,7,5,,,
+2023,Manufacturer_8,Model_28,PICKUP TRUCK - STANDARD,4.6,6,AM,Natural Gas,15.0,10.1,12.8,185,7,7,,,
+2023,Manufacturer_1,Model_43,PICKUP TRUCK - STANDARD,4.9,3,A,Natural Gas,14.7,10.1,12.6,193,7,3,,,
+2023,Manufacturer_15,Model_33,PICKUP TRUCK - STANDARD,3.3,8,A,Natural Gas,14.5,10.2,12.6,183,7,4,,,
+2023,Manufacturer_4,Model_95,PICKUP TRUCK - STANDARD,5.4,3,A,Natural Gas,15.0,10.3,12.9,203,6,10,,,
+2024,Manufacturer_7,Model_88,PICKUP TRUCK - STANDARD,4.7,6,AM,Natural Gas,14.1,10.1,12.3,179,7,5,,,
+2024,Manufacturer_5,Model_62,PICKUP TRUCK - STANDARD,4.4,6,A,Natural Gas,14.0,10.4,12.4,186,7,8,,,
+2024,Manufacturer_11,Model_56,PICKUP TRUCK - STANDARD,5.2,6,A,Natural Gas,15.2,10.2,12.9,186,7,5,,,
+2024,Manufacturer_1,Model_75,PICKUP TRUCK - STANDARD,4.9,8,M,Natural Gas,14.8,10.2,12.7,186,7,5,,,
+2024,Manufacturer_10,Model_44,PICKUP TRUCK - STANDARD,3.6,3,A,Natural Gas,14.1,9.4,12.0,173,7,8,,,
+2024,Manufacturer_4,Model_41,PICKUP TRUCK - STANDARD,4.4,6,AM,Natural Gas,15.0,10.9,13.2,191,7,6,,,
+2024,Manufacturer_1,Model_63,PICKUP TRUCK - STANDARD,2.6,8,M,Natural Gas,14.5,10.5,12.7,186,7,7,,,
+2024,Manufacturer_6,Model_94,PICKUP TRUCK - STANDARD,4.1,8,AM,Natural Gas,14.7,10.4,12.8,193,7,5,,,
+2021,Manufacturer_8,Model_1,MINIVAN,2.8,8,M,Regular Gasoline,11.9,8.7,10.5,232,6,5,,,
+2021,Manufacturer_6,Model_93,MINIVAN,3.3,3,M,Regular Gasoline,12.1,8.3,10.4,232,6,9,,,
+2021,Manufacturer_5,Model_42,MINIVAN,2.3,8,M,Regular Gasoline,12.2,8.9,10.7,227,6,8,,,
+2022,Manufacturer_3,Model_23,MINIVAN,2.2,3,A,Regular Gasoline,12.0,7.9,10.2,232,6,4,,,
+2022,Manufacturer_11,Model_63,MINIVAN,2.7,6,A,Regular Gasoline,11.5,8.1,10.0,227,6,8,,,
+2022,Manufacturer_11,Model_63,MINIVAN,2.3,3,AM,Regular Gasoline,12.3,8.0,10.4,238,6,3,,,
+2023,Manufacturer_13,Model_91,MINIVAN,2.5,3,M,Regular Gasoline,12.3,9.1,10.9,248,6,7,,,
+2023,Manufacturer_4,Model_67,MINIVAN,2.8,3,A,Regular Gasoline,12.3,9.0,10.8,228,6,6,,,
+2023,Manufacturer_11,Model_23,MINIVAN,2.8,8,M,Regular Gasoline,11.6,8.2,10.1,217,6,4,,,
+2024,Manufacturer_7,Model_14,MINIVAN,3.1,4,A,Regular Gasoline,12.1,8.7,10.6,238,6,9,,,
+2024,Manufacturer_15,Model_46,MINIVAN,2.8,6,M,Regular Gasoline,12.2,8.6,10.6,236,6,8,,,
+2024,Manufacturer_6,Model_78,MINIVAN,3.3,4,M,Regular Gasoline,11.9,8.5,10.4,236,6,6,,,
+2021,Manufacturer_8,Model_51,MINIVAN,3.1,3,M,Diesel,10.6,7.2,9.1,171,7,3,,,
+2021,Manufacturer_5,Model_1,MINIVAN,3.5,6,A,Diesel,10.3,7.2,8.9,168,7,6,,,
+2021,Manufacturer_5,Model_71,MINIVAN,3.3,4,A,Diesel,9.7,7.1,8.5,156,7,3,,,
+2021,Manufacturer_4,Model_30,MINIVAN,2.7,6,AM,Diesel,9.8,6.6,8.4,157,7,4,,,
+2021,Manufacturer_6,Model_62,MINIVAN,2.9,4,AM,Diesel,10.3,6.9,8.8,152,7,4,,,
+2021,Manufacturer_2,Model_100,MINIVAN,2.9,3,AM,Diesel,10.0,7.2,8.7,158,7,8,,,
+2021,Manufacturer_13,Model_30,MINIVAN,3.3,3,M,Diesel,10.1,7.5,8.9,154,7,9,,,
+2021,Manufacturer_6,Model_65,MINIVAN,2.1,4,A,Diesel,10.2,7.0,8.8,159,7,3,,,
+2022,Manufacturer_10,Model_65,MINIVAN,3.0,3,A,Diesel,10.7,8.0,9.5,175,7,9,,,
+2022,Manufacturer_10,Model_96,MINIVAN,2.4,3,M,Diesel,10.1,6.7,8.6,148,8,9,,,
+2022,Manufacturer_13,Model_18,MINIVAN,2.4,8,M,Diesel,10.1,7.0,8.7,160,7,6,,,
+2022,Manufacturer_12,Model_68,MINIVAN,2.7,4,A,Diesel,10.4,7.0,8.9,162,7,4,,,
+2022,Manufacturer_2,Model_86,MINIVAN,2.4,8,AM,Diesel,10.1,7.3,8.8,160,7,8,,,
+2022,Manufacturer_5,Model_22,MINIVAN,2.5,6,M,Diesel,10.0,7.1,8.7,149,8,10,,,
+2022,Manufacturer_11,Model_48,MINIVAN,2.9,4,M,Diesel,10.1,7.5,8.9,156,7,4,,,
+2022,Manufacturer_14,Model_37,MINIVAN,2.2,3,AM,Diesel,9.7,7.2,8.6,161,7,4,,,
+2023,Manufacturer_4,Model_27,MINIVAN,2.5,6,M,Diesel,10.2,7.0,8.8,162,7,10,,,
+2023,Manufacturer_7,Model_75,MINIVAN,2.9,3,AM,Diesel,10.7,7.7,9.3,170,7,5,,,
+2023,Manufacturer_8,Model_84,MINIVAN,2.1,3,A,Diesel,9.9,7.1,8.6,151,7,9,,,
+2023,Manufacturer_2,Model_3,MINIVAN,3.0,6,M,Diesel,10.4,7.7,9.2,163,7,9,,,
+2023,Manufacturer_6,Model_63,MINIVAN,2.3,3,A,Diesel,10.1,7.6,9.0,156,7,6,,,
+2023,Manufacturer_4,Model_68,MINIVAN,2.8,6,AM,Diesel,10.2,7.6,9.0,154,7,10,,,
+2023,Manufacturer_11,Model_39,MINIVAN,2.6,4,M,Diesel,9.9,6.8,8.5,151,7,7,,,
+2023,Manufacturer_14,Model_4,MINIVAN,3.2,6,A,Diesel,10.3,7.6,9.1,170,7,5,,,
+2024,Manufacturer_9,Model_87,MINIVAN,2.5,4,AM,Diesel,10.1,6.7,8.6,158,7,6,,,
+2024,Manufacturer_8,Model_70,MINIVAN,2.9,4,A,Diesel,10.1,6.9,8.7,158,7,5,,,
+2024,Manufacturer_12,Model_91,MINIVAN,2.9,4,AM,Diesel,10.4,7.0,8.9,154,7,5,,,
+2024,Manufacturer_9,Model_93,MINIVAN,3.0,3,A,Diesel,10.3,6.9,8.8,152,7,8,,,
+2024,Manufacturer_7,Model_53,MINIVAN,3.3,6,AM,Diesel,9.8,6.4,8.3,147,8,7,,,
+2024,Manufacturer_10,Model_79,MINIVAN,2.2,6,M,Diesel,9.9,6.6,8.4,144,8,6,,,
+2024,Manufacturer_13,Model_62,MINIVAN,2.9,4,M,Diesel,9.9,6.5,8.4,145,8,10,,,
+2024,Manufacturer_3,Model_21,MINIVAN,3.1,4,A,Diesel,10.1,7.4,8.9,160,7,3,,,
+2021,Manufacturer_5,Model_53,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.8,13.1,16.2
+2021,Manufacturer_4,Model_97,MINIVAN,0.0,0,A,Electric,,,,0,10,10,16.1,16.4,16.2
+2021,Manufacturer_8,Model_79,MINIVAN,0.0,0,A,Electric,,,,0,10,10,16.0,13.9,15.1
+2021,Manufacturer_8,Model_32,MINIVAN,0.0,0,A,Electric,,,,0,10,10,17.4,14.6,16.1
+2021,Manufacturer_10,Model_95,MINIVAN,0.0,0,A,Electric,,,,0,10,10,17.1,16.9,17.0
+2021,Manufacturer_7,Model_79,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.1,16.6,18.0
+2021,Manufacturer_9,Model_68,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.7,15.9,18.0
+2021,Manufacturer_1,Model_67,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.2,16.5,17.4
+2022,Manufacturer_15,Model_6,MINIVAN,0.0,0,A,Electric,,,,0,10,10,15.5,15.3,15.4
+2022,Manufacturer_9,Model_51,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.4,14.2,17.1
+2022,Manufacturer_7,Model_67,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.9,13.2,16.9
+2022,Manufacturer_4,Model_38,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.8,17.8,18.4
+2022,Manufacturer_13,Model_37,MINIVAN,0.0,0,A,Electric,,,,0,10,10,17.2,17.4,17.3
+2022,Manufacturer_10,Model_7,MINIVAN,0.0,0,A,Electric,,,,0,10,10,17.3,15.1,16.3
+2022,Manufacturer_8,Model_83,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.4,17.5,18.0
+2022,Manufacturer_2,Model_24,MINIVAN,0.0,0,A,Electric,,,,0,10,10,17.3,16.6,17.0
+2023,Manufacturer_12,Model_70,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.9,17.7,18.4
+2023,Manufacturer_8,Model_4,MINIVAN,0.0,0,A,Electric,,,,0,10,10,15.7,15.1,15.4
+2023,Manufacturer_12,Model_26,MINIVAN,0.0,0,A,Electric,,,,0,10,10,15.9,16.0,15.9
+2023,Manufacturer_6,Model_89,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.4,13.5,16.7
+2023,Manufacturer_3,Model_92,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.2,16.6,17.5
+2023,Manufacturer_12,Model_58,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.7,13.5,16.4
+2023,Manufacturer_12,Model_50,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.2,13.4,16.0
+2023,Manufacturer_10,Model_21,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.6,17.9,18.3
+2024,Manufacturer_13,Model_22,MINIVAN,0.0,0,A,Electric,,,,0,10,10,16.9,14.9,16.0
+2024,Manufacturer_11,Model_20,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.6,15.8,17.9
+2024,Manufacturer_13,Model_92,MINIVAN,0.0,0,A,Electric,,,,0,10,10,15.8,13.7,14.9
+2024,Manufacturer_12,Model_99,MINIVAN,0.0,0,A,Electric,,,,0,10,10,15.3,14.5,14.9
+2024,Manufacturer_3,Model_16,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.8,14.4,17.4
+2024,Manufacturer_1,Model_80,MINIVAN,0.0,0,A,Electric,,,,0,10,10,19.5,17.8,18.7
+2024,Manufacturer_8,Model_64,MINIVAN,0.0,0,A,Electric,,,,0,10,10,18.8,13.1,16.2
+2024,Manufacturer_15,Model_64,MINIVAN,0.0,0,A,Electric,,,,0,10,10,17.7,13.0,15.6
+2021,Manufacturer_10,Model_77,VAN - CARGO,2.3,3,A,Regular Gasoline,12.2,8.5,10.5,230,6,7,,,
+2021,Manufacturer_3,Model_8,VAN - CARGO,2.9,6,A,Regular Gasoline,12.1,8.9,10.7,225,6,5,,,
+2021,Manufacturer_15,Model_12,VAN - CARGO,3.3,3,A,Regular Gasoline,12.2,9.0,10.8,233,6,9,,,
+2021,Manufacturer_12,Model_77,VAN - CARGO,3.5,4,AM,Regular Gasoline,11.6,7.9,9.9,221,6,8,,,
+2021,Manufacturer_7,Model_9,VAN - CARGO,3.4,8,M,Regular Gasoline,11.5,7.8,9.8,213,6,4,,,
+2022,Manufacturer_9,Model_53,VAN - CARGO,2.4,4,M,Regular Gasoline,11.6,8.3,10.1,217,6,6,,,
+2022,Manufacturer_2,Model_62,VAN - CARGO,2.9,6,AM,Regular Gasoline,11.5,8.3,10.1,225,6,8,,,
+2022,Manufacturer_10,Model_73,VAN - CARGO,2.4,8,M,Regular Gasoline,12.1,8.6,10.5,241,6,10,,,
+2022,Manufacturer_4,Model_1,VAN - CARGO,2.7,3,A,Regular Gasoline,11.6,8.2,10.1,227,6,10,,,
+2022,Manufacturer_7,Model_53,VAN - CARGO,2.9,3,AM,Regular Gasoline,11.5,8.5,10.2,231,6,8,,,
+2023,Manufacturer_5,Model_33,VAN - CARGO,2.8,3,AM,Regular Gasoline,12.2,7.9,10.3,220,6,7,,,
+2023,Manufacturer_6,Model_51,VAN - CARGO,2.8,3,A,Regular Gasoline,11.8,7.7,10.0,224,6,6,,,
+2023,Manufacturer_13,Model_5,VAN - CARGO,2.5,4,AM,Regular Gasoline,11.8,8.5,10.3,236,6,5,,,
+2023,Manufacturer_13,Model_53,VAN - CARGO,2.9,3,M,Regular Gasoline,12.5,8.8,10.8,234,6,7,,,
+2023,Manufacturer_10,Model_88,VAN - CARGO,2.8,6,AM,Regular Gasoline,12.2,8.6,10.6,222,6,4,,,
+2024,Manufacturer_11,Model_69,VAN - CARGO,3.5,4,M,Regular Gasoline,11.7,7.6,9.9,228,6,9,,,
+2024,Manufacturer_14,Model_41,VAN - CARGO,2.3,3,AM,Regular Gasoline,11.5,8.4,10.1,218,6,9,,,
+2024,Manufacturer_5,Model_28,VAN - CARGO,2.1,6,A,Regular Gasoline,12.5,8.6,10.7,243,6,4,,,
+2024,Manufacturer_9,Model_4,VAN - CARGO,2.6,8,M,Regular Gasoline,11.4,7.6,9.7,205,6,5,,,
+2024,Manufacturer_13,Model_42,VAN - CARGO,2.3,4,A,Regular Gasoline,12.5,9.0,10.9,240,6,5,,,
+2021,Manufacturer_1,Model_40,VAN - CARGO,3.1,3,M,Diesel,10.2,7.4,8.9,161,7,4,,,
+2021,Manufacturer_12,Model_40,VAN - CARGO,2.5,3,M,Diesel,10.6,7.0,9.0,166,7,7,,,
+2021,Manufacturer_9,Model_41,VAN - CARGO,3.0,8,M,Diesel,9.9,6.6,8.4,148,8,4,,,
+2021,Manufacturer_9,Model_66,VAN - CARGO,2.4,3,A,Diesel,9.9,6.5,8.4,158,7,8,,,
+2021,Manufacturer_10,Model_32,VAN - CARGO,2.8,4,A,Diesel,10.0,7.4,8.8,163,7,7,,,
+2022,Manufacturer_8,Model_87,VAN - CARGO,2.9,3,A,Diesel,10.0,6.9,8.6,149,8,9,,,
+2022,Manufacturer_10,Model_81,VAN - CARGO,2.1,8,M,Diesel,10.1,6.7,8.6,156,7,8,,,
+2022,Manufacturer_9,Model_11,VAN - CARGO,2.5,8,M,Diesel,10.5,7.6,9.2,168,7,5,,,
+2022,Manufacturer_5,Model_88,VAN - CARGO,2.1,8,AM,Diesel,10.5,7.6,9.2,159,7,6,,,
+2022,Manufacturer_6,Model_51,VAN - CARGO,3.4,4,M,Diesel,9.8,7.2,8.6,151,7,8,,,
+2023,Manufacturer_8,Model_15,VAN - CARGO,3.2,6,AM,Diesel,10.6,7.4,9.2,158,7,10,,,
+2023,Manufacturer_9,Model_14,VAN - CARGO,3.3,8,M,Diesel,10.0,6.8,8.6,156,7,4,,,
+2023,Manufacturer_7,Model_76,VAN - CARGO,2.5,8,A,Diesel,10.4,7.6,9.1,164,7,6,,,
+2023,Manufacturer_14,Model_89,VAN - CARGO,2.8,8,AM,Diesel,10.7,7.4,9.2,163,7,8,,,
+2023,Manufacturer_15,Model_92,VAN - CARGO,2.8,8,A,Diesel,9.9,7.1,8.6,148,8,10,,,
+2024,Manufacturer_7,Model_9,VAN - CARGO,2.5,3,M,Diesel,9.8,6.8,8.5,150,7,9,,,
+2024,Manufacturer_3,Model_75,VAN - CARGO,2.5,3,A,Diesel,10.3,6.8,8.7,152,7,5,,,
+2024,Manufacturer_4,Model_88,VAN - CARGO,2.7,6,AM,Diesel,10.0,7.1,8.7,156,7,7,,,
+2024,Manufacturer_2,Model_75,VAN - CARGO,3.4,3,M,Diesel,10.6,7.7,9.3,174,7,9,,,
+2024,Manufacturer_1,Model_1,VAN - CARGO,3.3,6,A,Diesel,10.6,7.0,9.0,168,7,7,,,
+2021,Manufacturer_7,Model_81,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,16.2,16.5,16.3
+2021,Manufacturer_7,Model_56,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,16.6,14.9,15.8
+2022,Manufacturer_8,Model_18,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,17.7,16.3,17.1
+2022,Manufacturer_15,Model_47,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,15.9,14.9,15.5
+2023,Manufacturer_14,Model_86,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,19.2,13.8,16.8
+2023,Manufacturer_11,Model_3,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,15.6,13.1,14.5
+2024,Manufacturer_11,Model_56,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,15.7,17.4,16.5
+2024,Manufacturer_3,Model_83,VAN - CARGO,0.0,0,A,Electric,,,,0,10,10,19.9,13.7,17.1
